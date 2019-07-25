@@ -44,7 +44,7 @@ namespace Orator.VSShortcut
 
             using (var sw = File.CreateText(outputFile))
             {
-                sw.WriteLine("Guid,ID,Name,LocalizedName,#,Shortcut");
+                sw.WriteLine("Guid\tID\tName\tLocalizedName\t#\tShortcut");
                 Console.Clear();
 
                 // https://docs.microsoft.com/en-us/dotnet/api/envdte80.dte2
