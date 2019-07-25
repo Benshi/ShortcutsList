@@ -1,0 +1,933 @@
+Guid	ID	Name	LocalizedName	#	Shortcut
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	1	Format.AlignBottoms	書式.下揃え	1	VC ダイアログ エディター::Ctrl+Shift+下矢印
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	2	Format.AlignMiddles	書式.上下中央整列	1	VC ダイアログ エディター::F9
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	3	Format.AlignLefts	書式.左揃え	1	VC ダイアログ エディター::Ctrl+Shift+左矢印
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	4	Format.AlignRights	書式.右揃え	1	VC ダイアログ エディター::Ctrl+Shift+右矢印
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	6	Format.AlignTops	書式.上揃え	1	VC ダイアログ エディター::Ctrl+Shift+上矢印
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	7	Format.AlignCenters	書式.左右中央整列	1	VC ダイアログ エディター::Shift+F9
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	15	Edit.Copy	編集.コピー	1	全体::Ctrl+C
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	15	Edit.Copy	編集.コピー	2	全体::Ctrl+Ins
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	16	Edit.Cut	編集.切り取り	1	全体::Ctrl+X
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	16	Edit.Cut	編集.切り取り	2	全体::Shift+Del
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	17	Edit.Delete	編集.削除	1	クラス ダイアグラム::Ctrl+Del
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	17	Edit.Delete	編集.削除	2	依存関係検証ダイアグラム::Shift+Del
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	17	Edit.Delete	編集.削除	3	全体::Del
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	17	Edit.Delete	編集.削除	4	チーム エクスプローラー::Del
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	26	Edit.Paste	編集.貼り付け	1	全体::Ctrl+V
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	26	Edit.Paste	編集.貼り付け	2	全体::Shift+Ins
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	27	File.Print	ファイル.印刷	1	全体::Ctrl+P
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	29	Edit.Redo	編集.やり直し	1	全体::Ctrl+Y
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	29	Edit.Redo	編集.やり直し	2	全体::Ctrl+Shift+Z
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	29	Edit.Redo	編集.やり直し	3	全体::Shift+Alt+Bkspce
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	29	Edit.Redo	編集.やり直し	4	ActiveReportsエディタ::Ctrl+Shift+Z
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	31	Edit.SelectAll	編集.すべて選択	1	全体::Ctrl+A
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	42	View.Toolbox	表示.ツールボックス	1	全体::Ctrl+Alt+X
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	43	Edit.Undo	編集.元に戻す	1	全体::Ctrl+Z
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	43	Edit.Undo	編集.元に戻す	2	全体::Alt+Bkspce
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	52	Format.Bold	書式.太字	1	ActiveReportsエディタ::Ctrl+B
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	52	Format.Bold	書式.太字	2	HTML エディター デザイン ビュー::Ctrl+B
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	70	Format.Italic	書式.斜体	1	ActiveReportsエディタ::Ctrl+I
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	70	Format.Italic	書式.斜体	2	HTML エディター デザイン ビュー::Ctrl+I
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	71	Format.JustifyCenter	書式.中央揃え	1	ActiveReportsエディタ::Ctrl+E
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	73	Format.JustifyLeft	書式.左に揃える	1	ActiveReportsエディタ::Ctrl+L
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	74	Format.JustifyRight	書式.右に揃える	1	ActiveReportsエディタ::Ctrl+R
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	77	Format.Underline	書式.下線	1	ActiveReportsエディタ::Ctrl+U
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	77	Format.Underline	書式.下線	2	HTML エディター デザイン ビュー::Ctrl+U
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	97	Edit.Find	編集.検索	1	全体::Ctrl+F
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	131	QueryDesigner.SQL	クエリデザイナー.SQL	1	クエリ デザイナー::Ctrl+3
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	131	QueryDesigner.SQL	クエリデザイナー.SQL	2	ビュー デザイナー::Ctrl+3
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	132	QueryDesigner.Diagram	クエリデザイナー.ダイアグラム	1	クエリ デザイナー::Ctrl+1
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	132	QueryDesigner.Diagram	クエリデザイナー.ダイアグラム	2	ビュー デザイナー::Ctrl+1
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	133	QueryDesigner.Results	クエリデザイナー.結果	1	クエリ デザイナー::Ctrl+4
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	133	QueryDesigner.Results	クエリデザイナー.結果	2	ビュー デザイナー::Ctrl+4
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	134	QueryDesigner.Criteria	クエリデザイナー.抽出条件	1	クエリ デザイナー::Ctrl+2
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	134	QueryDesigner.Criteria	クエリデザイナー.抽出条件	2	ビュー デザイナー::Ctrl+2
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	150	File.Rename	ファイル.名前の変更	1	チーム エクスプローラー::F2
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	168	Edit.Remove	編集.クリア	1	マネージド リソース エディター::Del
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	179	Debug.StopDebugging	デバッグ.デバッグの停止	1	全体::Shift+F5
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	180	Debug.BreakAll	デバッグ.すべて中断	1	全体::Ctrl+Alt+Break
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	189	View.Refresh	表示.最新の情報に更新	1	Team Foundation ビルド詳細エディター::F5
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	189	View.Refresh	表示.最新の情報に更新	2	チーム エクスプローラー::F5
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	201	QueryDesigner.ExecuteSQL	クエリデザイナー.SQLの実行	1	クエリ デザイナー::Ctrl+R
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	201	QueryDesigner.ExecuteSQL	クエリデザイナー.SQLの実行	2	ビュー デザイナー::Ctrl+R
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	207	QueryDesigner.GotoRow	クエリデザイナー.行に移動	1	クエリ デザイナー::Ctrl+G
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	207	QueryDesigner.GotoRow	クエリデザイナー.行に移動	2	ビュー デザイナー::Ctrl+G
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	213	Debug.AttachtoProcess	デバッグ.プロセスにアタッチ	1	全体::Ctrl+Alt+P
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	214	Debug.Threads	デバッグ.スレッド	1	全体::Ctrl+Alt+H
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	216	File.NewProject	ファイル.新しいプロジェクト	1	全体::Ctrl+Shift+N
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	217	File.OpenProject	ファイル.プロジェクトを開く	1	全体::Ctrl+Shift+O
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	220	Project.AddNewItem	プロジェクト.新しい項目の追加	1	全体::Ctrl+Shift+A
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	221	File.NewFile	ファイル.新しいファイル	1	全体::Ctrl+N
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	222	File.OpenFile	ファイル.ファイルを開く	1	全体::Ctrl+O
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	224	File.SaveAll	ファイル.すべて保存	1	全体::Ctrl+Shift+S
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	229	File.Exit	ファイル.終了	1	全体::Alt+F4
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	230	Edit.Replace	編集.置換	1	全体::Ctrl+H
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	231	Edit.GoTo	編集.移動	1	全体::Ctrl+G
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	232	View.PropertyPages	表示.プロパティページ	1	全体::Shift+F4
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	233	View.FullScreen	表示.全画面表示	1	全体::Shift+Alt+Enter
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	234	View.SolutionExplorer	表示.ソリューションエクスプローラー	1	全体::Ctrl+Alt+L
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	235	View.PropertiesWindow	表示.プロパティウィンドウ	1	全体::F4
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	236	View.TaskList	表示.タスク一覧	1	全体::Ctrl+\, T
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	236	View.TaskList	表示.タスク一覧	2	全体::Ctrl+\, Ctrl+T
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	237	View.Output	表示.出力	1	全体::Ctrl+Alt+O
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	238	View.ObjectBrowser	表示.オブジェクトブラウザー	1	全体::Ctrl+Alt+J
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	239	View.DocumentOutline	表示.ドキュメントアウトライン	1	全体::Ctrl+Alt+T
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	240	Debug.Immediate	デバッグ.イミディエイト	1	全体::Ctrl+Alt+I
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	242	Debug.Locals	デバッグ.ローカル	1	全体::Ctrl+Alt+V, L
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	243	Debug.CallStack	デバッグ.呼び出し履歴	1	全体::Ctrl+Alt+C
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	244	Project.AddExistingItem	プロジェクト.既存の項目の追加	1	全体::Shift+Alt+A
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	248	Debug.StepInto	デバッグ.ステップイン	1	全体::F11
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	249	Debug.StepOver	デバッグ.ステップオーバー	1	全体::F10
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	250	Debug.StepOut	デバッグ.ステップアウト	1	全体::Shift+F11
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	251	Debug.RunToCursor	デバッグ.カーソル行の前まで実行	1	全体::Ctrl+F10
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	254	Debug.QuickWatch	デバッグ.クイックウォッチ	1	全体::Shift+F9
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	254	Debug.QuickWatch	デバッグ.クイックウォッチ	2	全体::Ctrl+Alt+Q
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	255	Debug.ToggleBreakpoint	デバッグ.ブレークポイントの設定解除	1	全体::F9
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	256	Debug.DeleteAllBreakpoints	デバッグ.すべてのブレークポイントの削除	1	全体::Ctrl+Shift+F9
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	258	Debug.SetNextStatement	デバッグ.次のステートメントの設定	1	全体::Ctrl+Shift+F10
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	259	Debug.ShowNextStatement	デバッグ.次のステートメントの表示	1	全体::Alt+Num *
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	277	Edit.FindinFiles	編集.フォルダーを指定して検索	1	全体::Ctrl+Shift+F
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	278	Edit.ReplaceinFiles	編集.フォルダーを指定して置換	1	全体::Ctrl+Shift+H
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	279	Edit.GoToNextLocation	編集.次の場所へ移動	1	全体::F8
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	280	Edit.GoToPrevLocation	編集.前の場所へ移動	1	全体::Shift+F8
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	286	Window.NextTab	ウィンドウ.次のタブ	1	全体::Ctrl+Alt+PgDn
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	286	Window.NextTab	ウィンドウ.次のタブ	2	全体::Ctrl+PgDn
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	287	Window.PreviousTab	ウィンドウ.前のタブ	1	全体::Ctrl+Alt+PgUp
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	287	Window.PreviousTab	ウィンドウ.前のタブ	2	全体::Ctrl+PgUp
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	287	Window.PreviousTab	ウィンドウ.前のタブ	3	HTML エディター ソース ビュー::Ctrl+PgUp
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	287	Window.PreviousTab	ウィンドウ.前のタブ	4	HTML エディター デザイン ビュー::Ctrl+PgUp
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	288	Window.CloseToolWindow	ウィンドウ.ツールウィンドウを閉じる	1	全体::Shift+Esc
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	289	Window.ActivateDocumentWindow	ウィンドウ.ドキュメントウィンドウをアクティブにする	1	全体::Esc
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	293	Window.MovetoNavigationBar	ウィンドウ.ナビゲーションバーに移動	1	全体::Ctrl+F2
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	295	Debug.Start	デバッグ.開始	1	全体::F5
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	296	Debug.Restart	デバッグ.再起動	1	全体::Ctrl+Shift+F5
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	316	Window.NextPane	ウィンドウ.次のペイン	1	全体::Alt+F6
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	317	Window.PreviousPane	ウィンドウ.前のペイン	1	全体::Shift+Alt+F6
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	318	Edit.ClearAll	編集.すべてクリア	1	不明なエディターです。::Ctrl+Alt+C
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	320	View.ErrorList	表示.エラー一覧	1	全体::Ctrl+\, E
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	320	View.ErrorList	表示.エラー一覧	2	全体::Ctrl+\, Ctrl+E
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	331	File.SaveSelectedItems	ファイル.選択されたファイルを上書き保存	1	全体::Ctrl+S
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	332	View.ViewDesigner	表示.デザイナーの表示	1	HTML エディター ソース ビュー::Shift+F7
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	332	View.ViewDesigner	表示.デザイナーの表示	2	全体::Shift+F7
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	333	View.ViewCode	表示.コードの表示	1	クラス ダイアグラム::Enter
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	333	View.ViewCode	表示.コードの表示	2	設定デザイナー::F7
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	333	View.ViewCode	表示.コードの表示	3	全体::F7
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	334	File.ViewinBrowser	ファイル.ブラウザーで表示	1	全体::Ctrl+Shift+W
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	338	View.EditLabel	表示.ラベルの編集	1	全体::F2
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	339	Debug.ExceptionSettings	デバッグ.例外設定	1	全体::Ctrl+Alt+E
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	355	Edit.StopSearch	編集.検索の中止	1	全体::Alt+F3, S
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	368	Debug.StartWithoutDebugging	デバッグ.デバッグなしで開始	1	全体::Ctrl+F5
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	370	Edit.FindNext	編集.次を検索	1	全体::F3
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	371	Edit.FindPrevious	編集.前を検索	1	全体::Shift+F3
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	372	Edit.FindNextSelected	編集.次を検索選択範囲	1	全体::Ctrl+F3
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	373	Edit.FindPreviousSelected	編集.前を検索選択範囲	1	全体::Ctrl+Shift+F3
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	376	Debug.EnableBreakpoint	デバッグ.ブレークポイントの有効化	1	全体::Ctrl+F9
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	377	Help.F1Help	ヘルプ.F1ヘルプ	1	全体::F1
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	397	Python.Properties	Python.プロパティ	1	全体::Alt+Enter
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	429	Tools.GoToCommandLine	ツール.コマンドラインに移動	1	全体::Ctrl+/
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	599	View.ClassView	表示.クラスビュー	1	全体::Ctrl+Shift+C
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	625	Window.NextSplitPane	ウィンドウ.次の分割ペイン	1	全体::F6
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	626	Window.PreviousSplitPane	ウィンドウ.前の分割ペイン	1	全体::Shift+F6
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	628	Window.NextDocumentWindow	ウィンドウ.次のドキュメントウィンドウ	1	全体::Ctrl+F6
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	629	Window.PreviousDocumentWindow	ウィンドウ.前のドキュメントウィンドウ	1	全体::Ctrl+Shift+F6
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	655	Edit.CycleClipboardRing	編集.クリップボードリングの切り替え	1	全体::Ctrl+Shift+V
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	655	Edit.CycleClipboardRing	編集.クリップボードリングの切り替え	2	全体::Ctrl+Shift+Ins
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	658	Window.CloseDocumentWindow	ウィンドウ.ドキュメントウィンドウを閉じる	1	全体::Ctrl+F4
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	729	View.CommandWindow	表示.コマンドウィンドウ	1	全体::Ctrl+Alt+A
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	747	Debug.Autos	デバッグ.自動変数	1	全体::Ctrl+Alt+V, A
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	809	View.NavigateBackward	表示.戻る	1	全体::Ctrl+-
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	810	View.NavigateForward	表示.次に進む	1	全体::Ctrl+Shift+-
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	882	Build.BuildSolution	ビルド.ソリューションのビルド	1	全体::Ctrl+Shift+B
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	890	Build.Cancel	ビルド.キャンセル	1	全体::Ctrl+Break
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	935	Edit.GoToDefinition	編集.定義へ移動	1	全体::F12
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	936	Edit.GoToDeclaration	編集.宣言へ移動	1	全体::Ctrl+F12
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	954	Project.Override	プロジェクト.オーバーライド	1	全体::Ctrl+Alt+Ins
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	978	View.FindSymbolResults	表示.シンボルの検索結果	1	全体::Ctrl+Alt+F12
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	1023	View.ResourceView	表示.リソースビュー	1	全体::Ctrl+Shift+E
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	1038	Help.WindowHelp	ヘルプ.ウィンドウヘルプ	1	全体::Shift+F1
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	1043	View.NextView	表示.次のビュー	1	HTML エディター ソース ビュー::Ctrl+PgDn
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	1043	View.NextView	表示.次のビュー	2	HTML エディター デザイン ビュー::Ctrl+PgDn
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	1106	View.PopBrowseContext	表示.参照コンテキストの表示	1	全体::Ctrl+Shift+8
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	1116	View.BrowseNext	表示.次を参照	1	全体::Ctrl+Shift+1
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	1117	View.BrowsePrevious	表示.前を参照	1	全体::Ctrl+Shift+2
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	1119	Edit.QuickFindSymbol	編集.クイックシンボル検索	1	全体::Shift+Alt+F12
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	1122	View.BookmarkWindow	表示.ブックマークウィンドウ	1	全体::Ctrl+K, Ctrl+W
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	1123	Tools.CodeSnippetsManager	ツール.コードスニペットマネージャー	1	全体::Ctrl+K, Ctrl+B
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	1124	Window.NextDocumentWindowNav	ウィンドウ.次のドキュメントウィンドウナビゲーション	1	全体::Ctrl+Tab
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	1125	Window.PreviousDocumentWindowNav	ウィンドウ.前のドキュメントウィンドウナビゲーション	1	全体::Ctrl+Shift+Tab
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	1126	View.ForwardBrowseContext	表示.参照コンテキストを前面へ	1	全体::Ctrl+Shift+7
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	1915	Edit.FindAllReferences	編集.すべての参照を検索	1	全体::Shift+F12
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	2	Edit.DeleteBackwards	編集.後退削除	1	テキスト エディター::Bkspce
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	2	Edit.DeleteBackwards	編集.後退削除	2	テキスト エディター::Shift+Bkspce
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	3	Edit.BreakLine	編集.改行	1	テキスト エディター::Enter
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	3	Edit.BreakLine	編集.改行	2	Windows フォーム デザイナー::Enter
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	4	Edit.InsertTab	編集.タブの挿入	1	テキスト エディター::Tab
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	4	Edit.InsertTab	編集.タブの挿入	2	Windows フォーム デザイナー::Tab
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	5	Edit.TabLeft	編集.左にタブ移動	1	テキスト エディター::Shift+Tab
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	5	Edit.TabLeft	編集.左にタブ移動	2	Windows フォーム デザイナー::Shift+Tab
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	7	Edit.CharLeft	編集.左に1文字移動	1	テキスト エディター::左矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	7	Edit.CharLeft	編集.左に1文字移動	2	Windows フォーム デザイナー::左矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	8	Edit.CharLeftExtend	編集.1文字左まで拡張	1	テキスト エディター::Shift+左矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	8	Edit.CharLeftExtend	編集.1文字左まで拡張	2	Windows フォーム デザイナー::Shift+左矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	9	Edit.CharRight	編集.右に1文字移動	1	テキスト エディター::右矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	9	Edit.CharRight	編集.右に1文字移動	2	Windows フォーム デザイナー::右矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	10	Edit.CharRightExtend	編集.1文字右まで拡張	1	テキスト エディター::Shift+右矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	10	Edit.CharRightExtend	編集.1文字右まで拡張	2	Windows フォーム デザイナー::Shift+右矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	11	Edit.LineUp	編集.1行上へ	1	テキスト エディター::上矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	11	Edit.LineUp	編集.1行上へ	2	Windows フォーム デザイナー::上矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	12	Edit.LineUpExtend	編集.1行上まで拡張	1	テキスト エディター::Shift+上矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	12	Edit.LineUpExtend	編集.1行上まで拡張	2	Windows フォーム デザイナー::Shift+下矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	13	Edit.LineDown	編集.1行下へ	1	テキスト エディター::下矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	13	Edit.LineDown	編集.1行下へ	2	Windows フォーム デザイナー::下矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	14	Edit.LineDownExtend	編集.1行下まで拡張	1	テキスト エディター::Shift+下矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	14	Edit.LineDownExtend	編集.1行下まで拡張	2	Windows フォーム デザイナー::Shift+上矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	15	Edit.DocumentStart	編集.ドキュメントの開始位置に移動	1	テキスト エディター::Ctrl+Home
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	15	Edit.DocumentStart	編集.ドキュメントの開始位置に移動	2	Windows フォーム デザイナー::Home
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	16	Edit.DocumentStartExtend	編集.ドキュメントの開始位置まで拡張	1	テキスト エディター::Ctrl+Shift+Home
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	16	Edit.DocumentStartExtend	編集.ドキュメントの開始位置まで拡張	2	Windows フォーム デザイナー::Shift+Home
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	17	Edit.DocumentEnd	編集.ドキュメントの終了位置に移動	1	テキスト エディター::Ctrl+End
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	17	Edit.DocumentEnd	編集.ドキュメントの終了位置に移動	2	Windows フォーム デザイナー::End
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	18	Edit.DocumentEndExtend	編集.ドキュメントの終了位置まで拡張	1	テキスト エディター::Ctrl+Shift+End
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	18	Edit.DocumentEndExtend	編集.ドキュメントの終了位置まで拡張	2	Windows フォーム デザイナー::Shift+End
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	19	Edit.LineStart	編集.行頭に移動	1	テキスト エディター::Home
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	20	Edit.LineStartExtend	編集.行頭まで拡張	1	テキスト エディター::Shift+Home
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	23	Edit.LineEnd	編集.行末に移動	1	テキスト エディター::End
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	24	Edit.LineEndExtend	編集.行末まで拡張	1	テキスト エディター::Shift+End
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	27	Edit.PageUp	編集.1ページ上へ移動	1	テキスト エディター::PgUp
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	28	Edit.PageUpExtend	編集.1ページ上まで拡張	1	テキスト エディター::Shift+PgUp
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	29	Edit.PageDown	編集.1ページ下へ移動	1	テキスト エディター::PgDn
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	30	Edit.PageDownExtend	編集.1ページ下まで拡張	1	テキスト エディター::Shift+PgDn
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	31	Edit.ViewTop	編集.上端まで移動	1	テキスト エディター::Ctrl+PgUp
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	32	Edit.ViewTopExtend	編集.上端まで拡張	1	テキスト エディター::Ctrl+Shift+PgUp
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	33	Edit.ViewBottom	編集.下端に移動	1	テキスト エディター::Ctrl+PgDn
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	34	Edit.ViewBottomExtend	編集.下端まで拡張	1	テキスト エディター::Ctrl+Shift+PgDn
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	35	Edit.ScrollLineUp	編集.1行上へスクロール	1	テキスト エディター::Ctrl+上矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	35	Edit.ScrollLineUp	編集.1行上へスクロール	2	VC ダイアログ エディター::Ctrl+上矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	36	Edit.ScrollLineDown	編集.1行下へスクロール	1	テキスト エディター::Ctrl+下矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	36	Edit.ScrollLineDown	編集.1行下へスクロール	2	VC ダイアログ エディター::Ctrl+下矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	39	Edit.ScrollColumnLeft	編集.1列左へスクロール	1	VC ダイアログ エディター::Ctrl+左矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	40	Edit.ScrollColumnRight	編集.1列右へスクロール	1	VC ダイアログ エディター::Ctrl+右矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	47	Edit.MakeLowercase	編集.小文字に変換	1	テキスト エディター::Ctrl+U
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	48	Edit.MakeUppercase	編集.大文字に変換	1	テキスト エディター::Ctrl+Shift+U
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	51	Edit.SwapAnchor	編集.アンカー位置の交換	1	テキスト エディター::Ctrl+K, Ctrl+A
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	53	Edit.GotoBrace	編集.かっこに移動	1	テキスト エディター::Ctrl+]
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	54	Edit.GotoBraceExtend	編集.対応するかっこまで拡張	1	テキスト エディター::Ctrl+Shift+]
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	57	Edit.OvertypeMode	編集.上書きモード	1	テキスト エディター::Ins
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	61	Edit.LineCut	編集.行の切り取り	1	テキスト エディター::Ctrl+L
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	62	Edit.LineDelete	編集.行の削除	1	テキスト エディター::Ctrl+Shift+L
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	64	Edit.DeleteHorizontalWhiteSpace	編集.左右スペースの削除	1	テキスト エディター::Ctrl+K, Ctrl+\
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	67	Edit.LineOpenAbove	編集.上に1行挿入	1	テキスト エディター::Ctrl+Enter
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	68	Edit.LineOpenBelow	編集.下に1行挿入	1	テキスト エディター::Ctrl+Shift+Enter
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	75	Edit.ClearBookmarks	編集.ブックマークのクリア	1	テキスト エディター::Ctrl+K, Ctrl+L
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	76	Edit.ToggleBookmark	編集.ブックマークの設定解除	1	テキスト エディター::Ctrl+K, Ctrl+K
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	77	Edit.NextBookmark	編集.次のブックマーク	1	全体::Ctrl+K, Ctrl+N
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	78	Edit.PreviousBookmark	編集.前のブックマーク	1	全体::Ctrl+K, Ctrl+P
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	89	Edit.LineTranspose	編集.行の置換	1	テキスト エディター::Shift+Alt+T
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	90	Edit.SelectCurrentWord	編集.現在の単語を選択	1	テキスト エディター::Ctrl+W
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	91	Edit.WordDeleteToEnd	編集.単語の最後まで削除	1	テキスト エディター::Ctrl+Del
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	92	Edit.WordDeleteToStart	編集.単語の最初まで削除	1	テキスト エディター::Ctrl+Bkspce
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	93	Edit.WordPrevious	編集.前の単語へ移動	1	テキスト エディター::Ctrl+左矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	94	Edit.WordPreviousExtend	編集.前の単語まで拡張	1	テキスト エディター::Ctrl+Shift+左矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	96	Edit.WordNext	編集.次の単語へ移動	1	テキスト エディター::Ctrl+右矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	97	Edit.WordNextExtend	編集.次の単語まで拡張	1	テキスト エディター::Ctrl+Shift+右矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	103	Edit.SelectionCancel	編集.選択範囲の取り消し	1	テキスト エディター::Esc
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	103	Edit.SelectionCancel	編集.選択範囲の取り消し	2	マネージド リソース エディター::Esc
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	103	Edit.SelectionCancel	編集.選択範囲の取り消し	3	設定デザイナー::Esc
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	103	Edit.SelectionCancel	編集.選択範囲の取り消し	4	Windows フォーム デザイナー::Esc
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	104	Edit.ParameterInfo	編集.パラメーターヒント	1	テキスト エディター::Ctrl+Shift+Space
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	104	Edit.ParameterInfo	編集.パラメーターヒント	2	ワークフロー デザイナー::Ctrl+K, P
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	104	Edit.ParameterInfo	編集.パラメーターヒント	3	ワークフロー デザイナー::Ctrl+K, Ctrl+P
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	104	Edit.ParameterInfo	編集.パラメーターヒント	4	ワークフロー デザイナー::Ctrl+Shift+Space
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	105	Edit.ViewWhiteSpace	編集.空白の表示	1	テキスト エディター::Ctrl+R, Ctrl+W
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	107	Edit.CompleteWord	編集.入力候補	1	テキスト エディター::Ctrl+Space
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	107	Edit.CompleteWord	編集.入力候補	2	テキスト エディター::Alt+右矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	107	Edit.CompleteWord	編集.入力候補	3	ワークフロー デザイナー::Ctrl+K, W
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	107	Edit.CompleteWord	編集.入力候補	4	ワークフロー デザイナー::Ctrl+K, Ctrl+W
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	107	Edit.CompleteWord	編集.入力候補	5	ワークフロー デザイナー::Ctrl+Space
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	107	Edit.CompleteWord	編集.入力候補	6	ワークフロー デザイナー::Alt+右矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	108	Edit.ListMembers	編集.メンバーの一覧	1	テキスト エディター::Ctrl+J
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	108	Edit.ListMembers	編集.メンバーの一覧	2	ワークフロー デザイナー::Ctrl+K, L
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	108	Edit.ListMembers	編集.メンバーの一覧	3	ワークフロー デザイナー::Ctrl+K, Ctrl+L
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	108	Edit.ListMembers	編集.メンバーの一覧	4	ワークフロー デザイナー::Ctrl+J
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	112	Edit.FormatSelection	編集.選択範囲のフォーマット	1	テキスト エディター::Ctrl+K, Ctrl+F
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	115	Edit.ToggleTaskListShortcut	編集.タスク一覧ショートカットの切り替え	1	テキスト エディター::Ctrl+K, Ctrl+H
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	116	Edit.QuickInfo	編集.クイックヒント	1	テキスト エディター::Ctrl+K, Ctrl+I
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	116	Edit.QuickInfo	編集.クイックヒント	2	ワークフロー デザイナー::Ctrl+K, I
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	116	Edit.QuickInfo	編集.クイックヒント	3	ワークフロー デザイナー::Ctrl+K, Ctrl+I
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	116	Edit.QuickInfo	編集.クイックヒント	4	[すべての参照を検索] ツール ウィンドウ::Ctrl+K, Ctrl+I
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	117	Edit.CharLeftExtendColumn	編集.1文字左に列を拡張	1	テキスト エディター::Shift+Alt+左矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	118	Edit.CharRightExtendColumn	編集.1文字右に列を拡張	1	テキスト エディター::Shift+Alt+右矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	119	Edit.LineUpExtendColumn	編集.1行上まで列を拡張	1	テキスト エディター::Shift+Alt+上矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	120	Edit.LineDownExtendColumn	編集.1行下まで列を拡張	1	テキスト エディター::Shift+Alt+下矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	121	Edit.ToggleWordWrap	編集.折り返しの切り替え	1	テキスト エディター::Ctrl+E, Ctrl+W
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	122	Edit.IncrementalSearch	編集.インクリメンタル検索	1	テキスト エディター::Ctrl+I
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	123	Edit.ReverseIncrementalSearch	編集.インクリメンタル検索を元に戻す	1	テキスト エディター::Ctrl+Shift+I
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	124	Edit.LineStartExtendColumn	編集.行頭まで列を拡張	1	テキスト エディター::Shift+Alt+Home
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	125	Edit.LineEndExtendColumn	編集.行末まで列を拡張	1	テキスト エディター::Shift+Alt+End
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	126	Edit.WordPreviousExtendColumn	編集.前の単語まで列を拡張	1	テキスト エディター::Ctrl+Shift+Alt+左矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	127	Edit.WordNextExtendColumn	編集.次の単語まで列を拡張	1	テキスト エディター::Ctrl+Shift+Alt+右矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	128	Edit.HideSelection	編集.選択範囲の非表示	1	テキスト エディター::Ctrl+M, Ctrl+H
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	129	Edit.ToggleOutliningExpansion	編集.アウトラインの展開折りたたみ	1	テキスト エディター::Ctrl+M, Ctrl+M
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	130	Edit.ToggleAllOutlining	編集.すべてのアウトラインの切り替え	1	テキスト エディター::Ctrl+M, Ctrl+L
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	131	Edit.StopOutlining	編集.アウトラインの非表示	1	テキスト エディター::Ctrl+M, Ctrl+P
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	132	Edit.StopHidingCurrent	編集.カレントを表示	1	テキスト エディター::Ctrl+M, Ctrl+U
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	133	Edit.CollapsetoDefinitions	編集.定義に折りたたむ	1	テキスト エディター::Ctrl+M, Ctrl+O
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	136	Edit.CommentSelection	編集.選択範囲のコメント	1	テキスト エディター::Ctrl+K, Ctrl+C
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	137	Edit.UncommentSelection	編集.選択範囲のコメントを解除	1	テキスト エディター::Ctrl+K, Ctrl+U
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	138	Edit.OpenFile	編集.ファイルを開く	1	全体::Ctrl+Shift+G
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	141	Edit.SelectToLastGoBack	編集.最後に戻った場所まで選択	1	テキスト エディター::Ctrl+;
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	143	Edit.FormatDocument	編集.ドキュメントのフォーマット	1	テキスト エディター::Ctrl+K, Ctrl+D
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	145	Edit.IncreaseFilterLevel	編集.フィルターレベルを上げる	1	テキスト エディター::Alt+.
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	145	Edit.IncreaseFilterLevel	編集.フィルターレベルを上げる	2	ワークフロー デザイナー::Alt+.
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	146	Edit.DecreaseFilterLevel	編集.フィルターレベルを下げる	1	テキスト エディター::Alt+,
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	146	Edit.DecreaseFilterLevel	編集.フィルターレベルを下げる	2	ワークフロー デザイナー::Alt+,
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	147	View.ShowSmartTag	表示.スマートタグの表示	1	全体::Shift+Alt+F10
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	147	View.ShowSmartTag	表示.スマートタグの表示	2	JSON エディター::Ctrl+.
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	147	View.ShowSmartTag	表示.スマートタグの表示	3	CSS エディター::Ctrl+.
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	147	View.ShowSmartTag	表示.スマートタグの表示	4	HTML エディター::Ctrl+.
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	147	View.ShowSmartTag	表示.スマートタグの表示	5	HTML エディター デザイン ビュー::Shift+Alt+F10
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	148	Edit.CopyParameterTip	編集.パラメーターヒントのコピー	1	テキスト エディター::Ctrl+Shift+Alt+C
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	149	Edit.PasteParameterTip	編集.パラメーターヒントの貼り付け	1	テキスト エディター::Ctrl+Shift+Alt+P
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	279	Format.InsertBookmark	書式.ブックマークの挿入	1	HTML エディター デザイン ビュー::Ctrl+Shift+L
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	280	Format.ConverttoHyperlink	書式.ハイパーリンクに変換	1	HTML エディター デザイン ビュー::Ctrl+L
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	322	View.EditMaster	表示.マスターの編集	1	HTML エディター デザイン ビュー::Ctrl+M, Ctrl+M
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	323	Edit.InsertSnippet	編集.スニペットの挿入	1	全体::Ctrl+K, Ctrl+X
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	325	Edit.CollapseTag	編集.タグを折りたたむ	1	テキスト エディター::Ctrl+M, Ctrl+T
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	350	Build.Compile	ビルド.コンパイル	1	全体::Ctrl+F7
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	413	Project.AddContentPage	プロジェクト.コンテンツページの追加	1	HTML エディター デザイン ビュー::Ctrl+M, Ctrl+C
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	449	View.ViewMarkup	表示.マークアップの表示	1	HTML エディター デザイン ビュー::Shift+F7
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	568	Edit.NextBookmarkInFolder	編集.フォルダー内の次のブックマーク	1	全体::Ctrl+Shift+K, Ctrl+Shift+N
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	569	Edit.PreviousBookmarkInFolder	編集.フォルダー内の前のブックマーク	1	全体::Ctrl+Shift+K, Ctrl+Shift+P
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1200	Format.TestDialog	書式.ダイアログのテスト	1	VC ダイアログ エディター::Ctrl+T
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1201	Format.SpaceAcross	書式.左右均等配置	1	VC ダイアログ エディター::Alt+右矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1201	Format.SpaceAcross	書式.左右均等配置	2	VC ダイアログ エディター::Alt+左矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1202	Format.SpaceDown	書式.上下均等配置	1	VC ダイアログ エディター::Alt+上矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1202	Format.SpaceDown	書式.上下均等配置	2	VC ダイアログ エディター::Alt+下矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1204	Format.ToggleGuides	書式.ガイドの切り替え	1	VC ダイアログ エディター::Ctrl+G
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1205	Format.SizetoContent	書式.テキストにサイズを合わせる	1	VC ダイアログ エディター::Shift+F7
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1206	Format.CenterVertical	書式.上下中央配置	1	VC ダイアログ エディター::Ctrl+F9
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1207	Format.CenterHorizontal	書式.左右中央配置	1	VC ダイアログ エディター::Ctrl+Shift+F9
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1209	Format.TabOrder	書式.タブオーダー	1	VC ダイアログ エディター::Ctrl+D
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1210	Format.ButtonRight	書式.ボタンの右端	1	VC ダイアログ エディター::Ctrl+R
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1211	Format.ButtonBottom	書式.ボタンの下端	1	VC ダイアログ エディター::Ctrl+B
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1224	Edit.MoveControlLeft	編集.コントロールを左に移動	1	全体::Ctrl+左矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1224	Edit.MoveControlLeft	編集.コントロールを左に移動	2	VC ダイアログ エディター::左矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1224	Edit.MoveControlLeft	編集.コントロールを左に移動	3	Windows フォーム デザイナー::Ctrl+左矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1225	Edit.MoveControlDown	編集.コントロールを下に移動	1	全体::Ctrl+下矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1225	Edit.MoveControlDown	編集.コントロールを下に移動	2	VC ダイアログ エディター::下矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1225	Edit.MoveControlDown	編集.コントロールを下に移動	3	HTML エディター デザイン ビュー::Ctrl+下矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1225	Edit.MoveControlDown	編集.コントロールを下に移動	4	Windows フォーム デザイナー::Ctrl+下矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1226	Edit.MoveControlRight	編集.コントロールを右に移動	1	全体::Ctrl+右矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1226	Edit.MoveControlRight	編集.コントロールを右に移動	2	VC ダイアログ エディター::右矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1226	Edit.MoveControlRight	編集.コントロールを右に移動	3	Windows フォーム デザイナー::Ctrl+右矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1227	Edit.MoveControlUp	編集.コントロールを上へ移動	1	全体::Ctrl+上矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1227	Edit.MoveControlUp	編集.コントロールを上へ移動	2	VC ダイアログ エディター::上矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1227	Edit.MoveControlUp	編集.コントロールを上へ移動	3	HTML エディター デザイン ビュー::Ctrl+上矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1227	Edit.MoveControlUp	編集.コントロールを上へ移動	4	Windows フォーム デザイナー::Ctrl+上矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1228	Edit.SizeControlDown	編集.コントロールのサイズを下に拡張	1	全体::Ctrl+Shift+下矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1228	Edit.SizeControlDown	編集.コントロールのサイズを下に拡張	2	VC ダイアログ エディター::Shift+下矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1228	Edit.SizeControlDown	編集.コントロールのサイズを下に拡張	3	Windows フォーム デザイナー::Ctrl+Shift+下矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1229	Edit.SizeControlUp	編集.コントロールのサイズを上に拡張	1	全体::Ctrl+Shift+上矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1229	Edit.SizeControlUp	編集.コントロールのサイズを上に拡張	2	VC ダイアログ エディター::Shift+上矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1229	Edit.SizeControlUp	編集.コントロールのサイズを上に拡張	3	Windows フォーム デザイナー::Ctrl+Shift+上矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1230	Edit.SizeControlLeft	編集.コントロールのサイズを左に拡張	1	全体::Ctrl+Shift+左矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1230	Edit.SizeControlLeft	編集.コントロールのサイズを左に拡張	2	VC ダイアログ エディター::Shift+左矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1230	Edit.SizeControlLeft	編集.コントロールのサイズを左に拡張	3	Windows フォーム デザイナー::Ctrl+Shift+左矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1231	Edit.SizeControlRight	編集.コントロールのサイズを右に拡張	1	全体::Ctrl+Shift+右矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1231	Edit.SizeControlRight	編集.コントロールのサイズを右に拡張	2	VC ダイアログ エディター::Shift+右矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1231	Edit.SizeControlRight	編集.コントロールのサイズを右に拡張	3	Windows フォーム デザイナー::Ctrl+Shift+右矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1232	Edit.NewAccelerator	編集.新しいアクセラレータ	1	VC アクセラレータ エディター::Ins
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1233	Edit.NextKeyTyped	編集.キータイピング登録	1	VC アクセラレータ エディター::Ctrl+W
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1236	Image.FlipHorizontal	イメージ.左右反転	1	VC イメージ エディター::Ctrl+H
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1237	Image.FlipVertical	イメージ.上下反転	1	VC イメージ エディター::Shift+Alt+H
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1238	Image.Rotate90Degrees	イメージ.90度回転	1	VC イメージ エディター::Ctrl+Shift+H
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1240	Edit.NewString	編集.新しい文字列	1	VC 文字列エディター::Ins
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1246	Format.CheckMnemonics	書式.ニーモニックの確認	1	VC ダイアログ エディター::Ctrl+M
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1247	Image.DrawOpaque	イメージ.背景色を不透明にする	1	VC イメージ エディター::Ctrl+J
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1250	Image.NewImageType	イメージ.新しいイメージタイプ	1	VC イメージ エディター::Ins
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1255	Image.ShowGrid	イメージ.グリッドの表示	1	VC イメージ エディター::Ctrl+Alt+S
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1256	Image.ShowTileGrid	イメージ.タイルグリッドの表示	1	VC イメージ エディター::Ctrl+Shift+Alt+S
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1257	Image.Magnify	イメージ.拡大	1	VC イメージ エディター::Ctrl+Shift+M
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1300	Image.RectangleSelectionTool	イメージ.矩形選択ツール	1	VC イメージ エディター::Shift+Alt+S
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1303	Image.EraseTool	イメージ.消去ツール	1	VC イメージ エディター::Ctrl+Shift+I
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1304	Image.FillTool	イメージ.塗りつぶしツール	1	VC イメージ エディター::Ctrl+F
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1305	Image.PencilTool	イメージ.鉛筆ツール	1	VC イメージ エディター::Ctrl+I
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1306	Image.BrushTool	イメージ.ブラシツール	1	VC イメージ エディター::Ctrl+B
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1307	Image.AirbrushTool	イメージ.エアブラシツール	1	VC イメージ エディター::Ctrl+A
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1308	Image.LineTool	イメージ.直線ツール	1	VC イメージ エディター::Ctrl+L
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1310	Image.TextTool	イメージ.テキストツール	1	VC イメージ エディター::Ctrl+T
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1311	Image.RectangleTool	イメージ.四角形ツール	1	VC イメージ エディター::Alt+R
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1312	Image.OutlinedRectangleTool	イメージ.縁付き四角形ツール	1	VC イメージ エディター::Shift+Alt+R
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1313	Image.FilledRectangleTool	イメージ.塗りつぶし四角形ツール	1	VC イメージ エディター::Ctrl+Shift+Alt+R
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1314	Image.RoundedRectangleTool	イメージ.角丸長方形ツール	1	VC イメージ エディター::Alt+W
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1315	Image.OutlinedRoundedRectangleTool	イメージ.縁付き角丸長方形ツール	1	VC イメージ エディター::Shift+Alt+W
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1316	Image.FilledRoundedRectangleTool	イメージ.塗りつぶし角丸長方形ツール	1	VC イメージ エディター::Ctrl+Shift+Alt+W
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1317	Image.EllipseTool	イメージ.楕円ツール	1	VC イメージ エディター::Alt+P
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1318	Image.OutlinedEllipseTool	イメージ.縁付き楕円ツール	1	VC イメージ エディター::Shift+Alt+P
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1319	Image.FilledEllipseTool	イメージ.塗りつぶし楕円ツール	1	VC イメージ エディター::Ctrl+Shift+Alt+P
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1321	Image.MagnificationTool	イメージ.拡大ツール	1	VC イメージ エディター::Ctrl+M
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1352	Image.LargerBrush	イメージ.より大きいブラシ	1	VC イメージ エディター::Ctrl+;
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1355	Image.SmallBrush	イメージ.小さいブラシ	1	VC イメージ エディター::Ctrl+.
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1356	Image.SmallerBrush	イメージ.より小さいブラシ	1	VC イメージ エディター::Ctrl+-
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1357	Image.ZoomIn	イメージ.拡大	1	VC イメージ エディター::Ctrl+Shift+.
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1357	Image.ZoomIn	イメージ.拡大	2	VC イメージ エディター::Ctrl+上矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1358	Image.ZoomOut	イメージ.縮小	1	VC イメージ エディター::Ctrl+Shift+,
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1358	Image.ZoomOut	イメージ.縮小	2	VC イメージ エディター::Ctrl+下矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1359	Image.PreviousColor	イメージ.前の色	1	VC イメージ エディター::Ctrl+[
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1359	Image.PreviousColor	イメージ.前の色	2	VC イメージ エディター::Ctrl+左矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1360	Image.PreviousRightColor	イメージ.前の色	1	VC イメージ エディター::Ctrl+Shift+[
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1360	Image.PreviousRightColor	イメージ.前の色	2	VC イメージ エディター::Ctrl+Shift+左矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1361	Image.NextColor	イメージ.次の色	1	VC イメージ エディター::Ctrl+]
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1361	Image.NextColor	イメージ.次の色	2	VC イメージ エディター::Ctrl+右矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1362	Image.NextRightColor	イメージ.次の色	1	VC イメージ エディター::Ctrl+Shift+]
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1362	Image.NextRightColor	イメージ.次の色	2	VC イメージ エディター::Ctrl+Shift+右矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1501	Edit.ShowTileGrid	編集.タイルグリッドの表示	1	全体::Enter
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1502	Edit.MoveControlUpGrid	編集.コントロールをグリッドで上へ移動	1	全体::上矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1503	Edit.MoveControlDownGrid	編集.コントロールをグリッドで下へ移動	1	全体::下矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1504	Edit.MoveControlLeftGrid	編集.コントロールをグリッドで左へ移動	1	全体::左矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1505	Edit.MoveControlRightGrid	編集.コントロールをグリッドで右へ移動	1	全体::右矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1506	Edit.SizeControlRightGrid	編集.コントロールサイズをグリッドで右に拡張	1	全体::Shift+右矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1507	Edit.SizeControlUpGrid	編集.コントロールサイズをグリッドで上に拡張	1	全体::Shift+上矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1508	Edit.SizeControlLeftGrid	編集.コントロールサイズをグリッドで左に拡張	1	全体::Shift+左矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1509	Edit.SizeControlDownGrid	編集.コントロールサイズをグリッドで下に拡張	1	全体::Shift+下矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1510	Edit.SelectNextControl	編集.次のコントロールを選択	1	全体::Tab
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1511	Edit.SelectPreviousControl	編集.前のコントロールを選択	1	全体::Shift+Tab
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1550	Refactor.Rename	編集.名前の変更	1	全体::Ctrl+R, Ctrl+R
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1551	Refactor.ExtractMethod	編集.メソッドの抽出	1	全体::Ctrl+R, Ctrl+M
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1552	Refactor.EncapsulateField	編集.フィールドのカプセル化	1	全体::Ctrl+R, Ctrl+E
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1553	Refactor.ExtractInterface	編集.インターフェイスの抽出	1	全体::Ctrl+R, Ctrl+I
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1555	Refactor.RemoveParameters	編集.パラメーターの削除	1	全体::Ctrl+R, Ctrl+V
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1556	Refactor.ReorderParameters	編集.パラメーターの順序変更	1	全体::Ctrl+R, Ctrl+O
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1561	Edit.SurroundWith	編集.ブロックの挿入	1	全体::Ctrl+K, Ctrl+S
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1643	Window.ShowEzMDIFileList	ウィンドウ.EzMDIファイル一覧の表示	1	全体::Ctrl+Alt+下矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1644	Window.NextToolWindowNav	ウィンドウ.次のツールウィンドウナビゲーション	1	全体::Alt+F7
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1645	Window.PreviousToolWindowNav	ウィンドウ.前のツールウィンドウナビゲーション	1	全体::Shift+Alt+F7
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1649	Build.RunCodeAnalysisonFile	ビルド.ファイルでコード分析を実行	1	全体::Ctrl+Shift+Alt+F7
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1680	View.ClassViewGoToSearchCombo	表示.クラスビューの検索コンボに移動	1	全体::Ctrl+K, Ctrl+V
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1740	View.ObjectBrowserGoToSearchCombo	表示.オブジェクトブラウザーの検索コンボに移動	1	全体::Ctrl+K, Ctrl+R
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1800	View.Backward	表示.前へ	1	全体::Alt+左矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1801	View.Forward	表示.次へ	1	全体::Alt+右矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1926	View.CodeDefinitionWindow	表示.コード定義ウィンドウ	1	全体::Ctrl+\, D
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1926	View.CodeDefinitionWindow	表示.コード定義ウィンドウ	2	全体::Ctrl+\, Ctrl+D
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	2260	View.ServerExplorer	表示.サーバーエクスプローラー	1	全体::Ctrl+Alt+S
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	2301	EditorContextMenus.CodeWindow.ViewCallHierarchy	エディターコンテキストメニュー.コードウィンドウ.呼び出し階層の表示	1	全体::Ctrl+K, Ctrl+T
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	2301	EditorContextMenus.CodeWindow.ViewCallHierarchy	エディターコンテキストメニュー.コードウィンドウ.呼び出し階層の表示	2	全体::Ctrl+K, T
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	2303	Edit.ToggleCompletionMode	編集.完了モードの切り替え	1	テキスト エディター::Ctrl+Alt+Space
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	2400	Edit.NextHighlightedReference	編集.次の強調表示された参照	1	テキスト エディター::Ctrl+Shift+下矢印
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	2401	Edit.PreviousHighlightedReference	編集.前の強調表示された参照	1	テキスト エディター::Ctrl+Shift+上矢印
+{B371C497-6D81-4B13-9DB8-8E3E6ABAD0C3}	770	TSqlEditorCloneQuery	TSqlEditorCloneQuery	1	Microsoft SQL Server Data Tools, T-SQL Editor::Ctrl+Alt+N
+{B371C497-6D81-4B13-9DB8-8E3E6ABAD0C3}	770	TSqlEditorCloneQuery	TSqlEditorCloneQuery	2	Microsoft SQL Server Data Tools, T-SQL PDW エディター::Ctrl+Alt+N
+{B371C497-6D81-4B13-9DB8-8E3E6ABAD0C3}	772	SQL.TSqlEditorExecuteQuery	SQL.TSqlEditorExecuteQuery	1	Microsoft SQL Server Data Tools, T-SQL Editor::Ctrl+Shift+E
+{B371C497-6D81-4B13-9DB8-8E3E6ABAD0C3}	772	SQL.TSqlEditorExecuteQuery	SQL.TSqlEditorExecuteQuery	2	Microsoft SQL Server Data Tools, T-SQL PDW エディター::Ctrl+Shift+E
+{B371C497-6D81-4B13-9DB8-8E3E6ABAD0C3}	773	SQL.TSqlEditorCancelQuery	SQL.TSqlEditorCancelQuery	1	Microsoft SQL Server Data Tools, T-SQL Editor::Alt+Break
+{B371C497-6D81-4B13-9DB8-8E3E6ABAD0C3}	773	SQL.TSqlEditorCancelQuery	SQL.TSqlEditorCancelQuery	2	Microsoft SQL Server Data Tools, T-SQL PDW エディター::Alt+Break
+{B371C497-6D81-4B13-9DB8-8E3E6ABAD0C3}	774	SQL.TSqlEditorShowEstimatedPlan	SQL.TSqlEditorShowEstimatedPlan	1	Microsoft SQL Server Data Tools, T-SQL Editor::Ctrl+D, E
+{B371C497-6D81-4B13-9DB8-8E3E6ABAD0C3}	774	SQL.TSqlEditorShowEstimatedPlan	SQL.TSqlEditorShowEstimatedPlan	2	Microsoft SQL Server Data Tools, T-SQL PDW エディター::Ctrl+D, E
+{B371C497-6D81-4B13-9DB8-8E3E6ABAD0C3}	778	SQL.TSqlEditorToggleExecutionPlan	SQL.TSqlEditorToggleExecutionPlan	1	Microsoft SQL Server Data Tools, T-SQL Editor::Ctrl+D, A
+{B371C497-6D81-4B13-9DB8-8E3E6ABAD0C3}	778	SQL.TSqlEditorToggleExecutionPlan	SQL.TSqlEditorToggleExecutionPlan	2	Microsoft SQL Server Data Tools, T-SQL PDW エディター::Ctrl+D, A
+{B371C497-6D81-4B13-9DB8-8E3E6ABAD0C3}	779	SQL.TSqlEditorResultsAsText	SQL.TSqlEditorResultsAsText	1	Microsoft SQL Server Data Tools, T-SQL Editor::Ctrl+D, T
+{B371C497-6D81-4B13-9DB8-8E3E6ABAD0C3}	779	SQL.TSqlEditorResultsAsText	SQL.TSqlEditorResultsAsText	2	Microsoft SQL Server Data Tools, T-SQL PDW エディター::Ctrl+D, T
+{B371C497-6D81-4B13-9DB8-8E3E6ABAD0C3}	780	SQL.TSqlEditorResultsAsGrid	SQL.TSqlEditorResultsAsGrid	1	Microsoft SQL Server Data Tools, T-SQL Editor::Ctrl+D, G
+{B371C497-6D81-4B13-9DB8-8E3E6ABAD0C3}	780	SQL.TSqlEditorResultsAsGrid	SQL.TSqlEditorResultsAsGrid	2	Microsoft SQL Server Data Tools, T-SQL PDW エディター::Ctrl+D, G
+{B371C497-6D81-4B13-9DB8-8E3E6ABAD0C3}	781	SQL.TSqlEditorResultsAsFile	SQL.TSqlEditorResultsAsFile	1	Microsoft SQL Server Data Tools, T-SQL Editor::Ctrl+D, F
+{B371C497-6D81-4B13-9DB8-8E3E6ABAD0C3}	781	SQL.TSqlEditorResultsAsFile	SQL.TSqlEditorResultsAsFile	2	Microsoft SQL Server Data Tools, T-SQL PDW エディター::Ctrl+D, F
+{B371C497-6D81-4B13-9DB8-8E3E6ABAD0C3}	783	SQL.TSqlEditorToggleResultsPane	SQL.TSqlEditorToggleResultsPane	1	Microsoft SQL Server Data Tools, T-SQL Editor::Ctrl+D, R
+{B371C497-6D81-4B13-9DB8-8E3E6ABAD0C3}	783	SQL.TSqlEditorToggleResultsPane	SQL.TSqlEditorToggleResultsPane	2	Microsoft SQL Server Data Tools, T-SQL PDW エディター::Ctrl+D, R
+{4C7763BF-5FAF-4264-A366-B7E1F27BA958}	1	View.QuickActions	表示.クイックアクションとリファクタリング	1	テキスト エディター::Alt+Enter
+{4C7763BF-5FAF-4264-A366-B7E1F27BA958}	1	View.QuickActions	表示.クイックアクションとリファクタリング	2	テキスト エディター::Ctrl+.
+{4C7763BF-5FAF-4264-A366-B7E1F27BA958}	3	Edit.SmartBreakLine	編集.スマート改行	1	全体::Shift+Enter
+{4C7763BF-5FAF-4264-A366-B7E1F27BA958}	6	EditorContextMenus.CodeWindow.QuickActionsForPosition	エディターコンテキストメニュー.コードウィンドウ.位置のクイックアクション	1	全体::Ctrl+.
+{4C7763BF-5FAF-4264-A366-B7E1F27BA958}	7	View.QuickActionsForPosition	表示.位置のクイックアクション	1	テキスト エディター::Ctrl+\, Ctrl+.
+{4C7763BF-5FAF-4264-A366-B7E1F27BA958}	4096	Window.ApplyWindowLayout1	ウィンドウ.ウィンドウレイアウト1を適用	1	全体::Ctrl+Alt+1
+{4C7763BF-5FAF-4264-A366-B7E1F27BA958}	4097	Window.ApplyWindowLayout2	ウィンドウ.ウィンドウレイアウト2を適用	1	全体::Ctrl+Alt+2
+{4C7763BF-5FAF-4264-A366-B7E1F27BA958}	4098	Window.ApplyWindowLayout3	ウィンドウ.ウィンドウレイアウト3を適用	1	全体::Ctrl+Alt+3
+{4C7763BF-5FAF-4264-A366-B7E1F27BA958}	4099	Window.ApplyWindowLayout4	ウィンドウ.ウィンドウレイアウト4を適用	1	全体::Ctrl+Alt+4
+{4C7763BF-5FAF-4264-A366-B7E1F27BA958}	4100	Window.ApplyWindowLayout5	ウィンドウ.ウィンドウレイアウト5を適用	1	全体::Ctrl+Alt+5
+{4C7763BF-5FAF-4264-A366-B7E1F27BA958}	4101	Window.ApplyWindowLayout6	ウィンドウ.ウィンドウレイアウト6を適用	1	全体::Ctrl+Alt+6
+{4C7763BF-5FAF-4264-A366-B7E1F27BA958}	4102	Window.ApplyWindowLayout7	ウィンドウ.ウィンドウレイアウト7を適用	1	全体::Ctrl+Alt+7
+{4C7763BF-5FAF-4264-A366-B7E1F27BA958}	4103	Window.ApplyWindowLayout8	ウィンドウ.ウィンドウレイアウト8を適用	1	全体::Ctrl+Alt+8
+{4C7763BF-5FAF-4264-A366-B7E1F27BA958}	4104	Window.ApplyWindowLayout9	ウィンドウ.ウィンドウレイアウト9を適用	1	全体::Ctrl+Alt+9
+{4C7763BF-5FAF-4264-A366-B7E1F27BA958}	4105	Window.ApplyWindowLayout10	ウィンドウ.ウィンドウレイアウト10を適用	1	全体::Ctrl+Alt+0
+{712C6C80-883B-4AAD-B430-BBCA5256FA9D}	76	EditorContextMenus.CodeWindow.Annotation.ShowLineAnnotations	エディターコンテキストメニュー.コードウィンドウ.注釈.行注釈の表示	1	全体::Ctrl+K, Ctrl+M
+{4A9B7E50-AA16-11D0-A8C5-00A0C921A4D2}	1	View.NextError	表示.次のエラー	1	全体::Ctrl+Shift+F12
+{D63DB1F0-404E-4B21-9648-CA8D99245EC3}	4	Window.AddTabtoSelection	ウィンドウ.タブを選択に追加	1	全体::Ctrl+Shift+Alt+Space
+{D63DB1F0-404E-4B21-9648-CA8D99245EC3}	5	Window.NextTabandAddtoSelection	ウィンドウ.次のタブを選択に追加	1	全体::Ctrl+Shift+Alt+PgDn
+{D63DB1F0-404E-4B21-9648-CA8D99245EC3}	6	Window.PreviousTabandAddtoSelection	ウィンドウ.前のタブを選択に追加	1	全体::Ctrl+Shift+Alt+PgUp
+{D63DB1F0-404E-4B21-9648-CA8D99245EC3}	8	View.AllWindows	表示.すべてのウィンドウ	1	全体::Shift+Alt+M
+{D63DB1F0-404E-4B21-9648-CA8D99245EC3}	9	Window.KeepTabOpen	ウィンドウ.タブを開いたままにする	1	全体::Ctrl+Alt+Home
+{D63DB1F0-404E-4B21-9648-CA8D99245EC3}	17	Window.ActivateWindowSearch	ウィンドウ.ウィンドウ検索	1	全体::Alt+@
+{D63DB1F0-404E-4B21-9648-CA8D99245EC3}	18	Window.ActivateQuickLaunch	ウィンドウ.クイック起動	1	全体::Ctrl+Q
+{D63DB1F0-404E-4B21-9648-CA8D99245EC3}	19	Window.ActivateQuickLaunchPreviousCategory	ウィンドウ.クイック起動の前のカテゴリ	1	全体::Ctrl+Shift+Q
+{D63DB1F0-404E-4B21-9648-CA8D99245EC3}	20	Window.ActivateSolutionExplorerSearch	ウィンドウ.ソリューションエクスプローラーの検索	1	全体::Ctrl+:
+{2A8866DC-7BDE-4DC8-A360-A60679534384}	4	Edit.PeekDefinition	編集.定義をここに表示	1	テキスト エディター::Alt+F12
+{2A8866DC-7BDE-4DC8-A360-A60679534384}	6	Edit.PeekForward	編集.次を見る	1	テキスト エディター::Ctrl+Alt+;
+{2A8866DC-7BDE-4DC8-A360-A60679534384}	7	Edit.PeekBackward	編集.前を見る	1	テキスト エディター::Ctrl+Alt+-
+{2A8866DC-7BDE-4DC8-A360-A60679534384}	258	Edit.MoveSelectedLinesUp	編集.選択した行を上へ移動	1	テキスト エディター::Alt+上矢印
+{2A8866DC-7BDE-4DC8-A360-A60679534384}	259	Edit.MoveSelectedLinesDown	編集.選択した行を下へ移動	1	テキスト エディター::Alt+下矢印
+{5DD0BB59-7076-4C59-88D3-DE36931F63F0}	2090	Tools.ForceGC	ツール.ガベージコレクションを強制	1	全体::Ctrl+Shift+Alt+F12, Ctrl+Shift+Alt+F12
+{5DD0BB59-7076-4C59-88D3-DE36931F63F0}	2100	View.ZoomIn	表示.拡大	1	全体::Ctrl+Shift+.
+{5DD0BB59-7076-4C59-88D3-DE36931F63F0}	2101	View.ZoomOut	表示.縮小	1	全体::Ctrl+Shift+,
+{5DD0BB59-7076-4C59-88D3-DE36931F63F0}	2500	Edit.ExpandAllOutlining	編集.すべてのアウトラインを展開	1	テキスト エディター::Ctrl+M, Ctrl+X
+{5DD0BB59-7076-4C59-88D3-DE36931F63F0}	2501	Edit.CollapseAllOutlining	編集.すべてのアウトラインを折りたたむ	1	テキスト エディター::Ctrl+M, Ctrl+A
+{5DD0BB59-7076-4C59-88D3-DE36931F63F0}	2502	Edit.ExpandCurrentRegion	編集.現在の領域を展開	1	テキスト エディター::Ctrl+M, Ctrl+E
+{5DD0BB59-7076-4C59-88D3-DE36931F63F0}	2503	Edit.CollapseCurrentRegion	編集.現在の領域を折りたたむ	1	テキスト エディター::Ctrl+M, Ctrl+S
+{E8B06F44-6D01-11D2-AA7D-00C04F990343}	4999	View.WebBrowser	表示.Webブラウザー	1	全体::Ctrl+Alt+R
+{4A79114A-19E4-11D3-B86B-00C04F79F802}	256	Help.ViewHelp	ヘルプ.ヘルプの表示	1	全体::Ctrl+F1
+{4A79114A-19E4-11D3-B86B-00C04F79F802}	285	Help.AddandRemoveHelpContent	ヘルプ.ヘルプコンテンツの追加と削除	1	全体::Ctrl+Alt+F1
+{C9DD4A59-47FB-11D2-83E7-00C04F9902C1}	256	Debug.Breakpoints	デバッグ.ブレークポイント	1	全体::Ctrl+Alt+B
+{C9DD4A59-47FB-11D2-83E7-00C04F9902C1}	257	Debug.Disassembly	デバッグ.逆アセンブリ	1	全体::Ctrl+Alt+D
+{C9DD4A59-47FB-11D2-83E7-00C04F9902C1}	259	Debug.Registers	デバッグ.レジスタ	1	全体::Ctrl+Alt+G
+{C9DD4A59-47FB-11D2-83E7-00C04F9902C1}	260	Debug.Modules	デバッグ.モジュール	1	全体::Ctrl+Alt+U
+{C9DD4A59-47FB-11D2-83E7-00C04F9902C1}	261	Debug.ApplyCodeChanges	デバッグ.コード変更を適用	1	全体::Alt+F10
+{C9DD4A59-47FB-11D2-83E7-00C04F9902C1}	263	Debug.GoToDisassembly	デバッグ.逆アセンブリへ移動	1	全体::Alt+G
+{C9DD4A59-47FB-11D2-83E7-00C04F9902C1}	305	Debug.Processes	デバッグ.プロセス	1	全体::Ctrl+Alt+Z
+{C9DD4A59-47FB-11D2-83E7-00C04F9902C1}	311	Debug.FunctionBreakpoint	デバッグ.関数のブレークポイント	1	全体::Ctrl+B
+{C9DD4A59-47FB-11D2-83E7-00C04F9902C1}	320	EditorContextMenus.CodeWindow.Breakpoint.BreakpointConditions	エディターコンテキストメニュー.コードウィンドウ.ブレークポイント.ブレークポイント条件	1	全体::Alt+F9, C
+{C9DD4A59-47FB-11D2-83E7-00C04F9902C1}	342	Debug.StepIntoCurrentProcess	デバッグ.現在のプロセスにステップインする	1	全体::Ctrl+Alt+F11
+{C9DD4A59-47FB-11D2-83E7-00C04F9902C1}	343	Debug.StepOverCurrentProcess	デバッグ.現在のプロセスにステップオーバーする	1	全体::Ctrl+Alt+F10
+{C9DD4A59-47FB-11D2-83E7-00C04F9902C1}	344	Debug.StepOutCurrentProcess	デバッグ.現在のプロセスにステップアウトする	1	全体::Ctrl+Shift+Alt+F11
+{C9DD4A59-47FB-11D2-83E7-00C04F9902C1}	352	EditorContextMenus.CodeWindow.Breakpoint.BreakpointEditlabels	エディターコンテキストメニュー.コードウィンドウ.ブレークポイント.ブレークポイントのラベルの編集	1	全体::Alt+F9, L
+{C9DD4A59-47FB-11D2-83E7-00C04F9902C1}	4099	DebuggerContextMenus.BreakpointsWindow.Delete	デバッガーコンテキストメニュー.ブレークポイントウィンドウ.削除	1	全体::Alt+F9, D
+{C9DD4A59-47FB-11D2-83E7-00C04F9902C1}	4102	DebuggerContextMenus.BreakpointsWindow.GoToSourceCode	デバッガーコンテキストメニュー.ブレークポイントウィンドウ.ソースコードへ移動	1	全体::Alt+F9, S
+{C9DD4A59-47FB-11D2-83E7-00C04F9902C1}	4103	DebuggerContextMenus.BreakpointsWindow.GoToDisassembly	デバッガーコンテキストメニュー.ブレークポイントウィンドウ.逆アセンブリを表示	1	全体::Alt+F9, A
+{C9DD4A59-47FB-11D2-83E7-00C04F9902C1}	8201	Debug.ToggleDisassembly	デバッグ.逆アセンブリの切り替え	1	全体::Ctrl+F11
+{C9DD4A59-47FB-11D2-83E7-00C04F9902C1}	61456	Debug.ReattachtoProcess	デバッグ.プロセスに再アタッチする	1	全体::Shift+Alt+P
+{C9DD4A59-47FB-11D2-83E7-00C04F9902C1}	16777728	Debug.Memory1	デバッグ.メモリ1	1	全体::Ctrl+Alt+M, 1
+{C9DD4A59-47FB-11D2-83E7-00C04F9902C1}	16777984	Debug.Watch1	デバッグ.ウォッチ1	1	全体::Ctrl+Alt+W, 1
+{C9DD4A59-47FB-11D2-83E7-00C04F9902C1}	33554944	Debug.Memory2	デバッグ.メモリ2	1	全体::Ctrl+Alt+M, 2
+{C9DD4A59-47FB-11D2-83E7-00C04F9902C1}	33555200	Debug.Watch2	デバッグ.ウォッチ2	1	全体::Ctrl+Alt+W, 2
+{C9DD4A59-47FB-11D2-83E7-00C04F9902C1}	50332160	Debug.Memory3	デバッグ.メモリ3	1	全体::Ctrl+Alt+M, 3
+{C9DD4A59-47FB-11D2-83E7-00C04F9902C1}	50332416	Debug.Watch3	デバッグ.ウォッチ3	1	全体::Ctrl+Alt+W, 3
+{C9DD4A59-47FB-11D2-83E7-00C04F9902C1}	67109376	Debug.Memory4	デバッグ.メモリ4	1	全体::Ctrl+Alt+M, 4
+{C9DD4A59-47FB-11D2-83E7-00C04F9902C1}	67109632	Debug.Watch4	デバッグ.ウォッチ4	1	全体::Ctrl+Alt+W, 4
+{4C87B692-1202-46AA-B64C-EF01FAEC53DA}	65	MoveLeftEdgetotheleft	View.EdgeLeftMoveLeft	1	XAML デザイナー::Ctrl+Shift+,
+{4C87B692-1202-46AA-B64C-EF01FAEC53DA}	66	MoveLeftEdgetotheright	View.EdgeLeftMoveRight	1	XAML デザイナー::Ctrl+Shift+.
+{4C87B692-1202-46AA-B64C-EF01FAEC53DA}	67	MoveRightEdgetotheleft	View.EdgeRightMoveLeft	1	XAML デザイナー::Ctrl+Shift+Alt+,
+{4C87B692-1202-46AA-B64C-EF01FAEC53DA}	68	MoveRightEdgetotheright	View.EdgeRightMoveRight	1	XAML デザイナー::Ctrl+Shift+Alt+.
+{78F03954-2FB8-4087-8CE7-59D71710B3BB}	17	OtherContextMenus.HTMLContext.WrapWithdiv	その他のコンテキストメニュー.HTMLコンテキスト.divでの折り返し	1	HTML エディター::Shift+Alt+W
+{F718CA06-CF4F-4A0C-9106-E79E9EE5E7CD}	32	OtherContextMenus.JSONContext.ReloadSchemas	その他のコンテキストメニュー.JSONコンテキスト.スキーマの再読み込み	1	JSON エディター::Ctrl+Shift+J
+{DDC7E0DF-A9F6-4A8B-B7F0-7951E11D8386}	22036	EditorContextMenus.CodeWindow.CodeMap.CodeMap.ShowItem	エディターコンテキストメニュー.コードウィンドウ.コードマップ.コードマップに表示	1	全体::Ctrl+@
+{000AF700-CF09-4582-9E1C-2603403AB647}	24656	SQL.Rename	SQL.名前の変更	1	Microsoft SQL Server Data Tools, T-SQL Editor::Ctrl+R, R
+{000AF700-CF09-4582-9E1C-2603403AB647}	24656	SQL.Rename	SQL.名前の変更	2	Microsoft SQL Server Data Tools, T-SQL Editor::F2
+{000AF700-CF09-4582-9E1C-2603403AB647}	24656	SQL.Rename	SQL.名前の変更	3	Microsoft SQL Server Data Tools, T-SQL Editor::Ctrl+R, Ctrl+R
+{000AF700-CF09-4582-9E1C-2603403AB647}	24656	SQL.Rename	SQL.名前の変更	4	Microsoft SQL Server Data Tools, テーブル デザイナー::Ctrl+R, R
+{000AF700-CF09-4582-9E1C-2603403AB647}	24656	SQL.Rename	SQL.名前の変更	5	Microsoft SQL Server Data Tools, テーブル デザイナー::F2
+{000AF700-CF09-4582-9E1C-2603403AB647}	24656	SQL.Rename	SQL.名前の変更	6	Microsoft SQL Server Data Tools, テーブル デザイナー::Ctrl+R, Ctrl+R
+{E2F47E03-7D62-4F2C-A417-B5F904D6CD3A}	1280	SQL.ExecuteWithDebugger	SQL.ExecuteWithDebugger	1	Microsoft SQL Server Data Tools, T-SQL Editor::Alt+F5
+{E148F049-C570-4F55-84A6-6DA870AF229E}	34411	Image.CopyandOutlineSelection	イメージ.コピーして選択範囲をアウトライン	1	VC イメージ エディター::Ctrl+Shift+U
+{E148F049-C570-4F55-84A6-6DA870AF229E}	34414	Image.UseSelectionasBrush	イメージ.選択アイテムをブラシとして使用	1	VC イメージ エディター::Ctrl+U
+{501822E1-B5AF-11D0-B4DC-00A0C91506EF}	12386	EditorContextMenus.CodeWindow.Execute	エディターコンテキストメニュー.コードウィンドウ.実行	1	全体::Ctrl+Alt+F5
+{9E545B2D-3892-4FFA-A47A-F8D456C5FB4A}	1280	Build.RunCodeAnalysisonSolution	ビルド.ソリューションでコード分析を実行	1	全体::Alt+F11
+{E0925463-8B86-445F-8C20-1379A9CFDC51}	256	AndroidDesign.HighlightContainers	AndroidDesign.HighlightContainers	1	Android Layout file::Ctrl+Shift+Alt+C
+{E0925463-8B86-445F-8C20-1379A9CFDC51}	257	AndroidDesign.ZoomFull	AndroidDesign.ZoomFull	1	Android Layout file::Ctrl+Alt+.
+{E0925463-8B86-445F-8C20-1379A9CFDC51}	258	AndroidDesign.ZoomFit	AndroidDesign.ZoomFit	1	Android Layout file::Ctrl+0
+{E0925463-8B86-445F-8C20-1379A9CFDC51}	259	AndroidDesign.ZoomIn	AndroidDesign.ZoomIn	1	Android Layout file::Ctrl+Alt+;
+{E0925463-8B86-445F-8C20-1379A9CFDC51}	260	AndroidDesign.ZoomOut	AndroidDesign.ZoomOut	1	Android Layout file::Ctrl+Alt+-
+{E0925463-8B86-445F-8C20-1379A9CFDC51}	261	AndroidDesign.ShowGrid	AndroidDesign.ShowGrid	1	Android Layout file::Ctrl+Shift+Alt+G
+{5D8847D1-9A8A-431E-907A-62D9963F07FD}	8418	Debug.MovetoIntelliTraceSearchBar	デバッグ.IntelliTrace検索バーに移動する	1	全体::Ctrl+Alt+Y, S
+{E234E66E-BA64-4D71-B304-16F0A4C793F5}	16406	Team.TeamExplorerSearch	チーム.チームエクスプローラーの検索	1	全体::Ctrl+^
+{CD203EB7-5920-47F9-8927-1804E7498464}	1281	Debug.ParallelWatch1	デバッグ.並列ウォッチ1	1	全体::Ctrl+Shift+D, 1
+{000AF700-CF09-4582-9E1C-2603403AB647}	24657	SQL.MovetoSchema	SQL.スキーマへ移動	1	Microsoft SQL Server Data Tools, T-SQL Editor::Ctrl+R, M
+{000AF700-CF09-4582-9E1C-2603403AB647}	24657	SQL.MovetoSchema	SQL.スキーマへ移動	2	Microsoft SQL Server Data Tools, T-SQL Editor::Ctrl+R, Ctrl+M
+{000AF700-CF09-4582-9E1C-2603403AB647}	24657	SQL.MovetoSchema	SQL.スキーマへ移動	3	Microsoft SQL Server Data Tools, テーブル デザイナー::Ctrl+R, M
+{000AF700-CF09-4582-9E1C-2603403AB647}	24657	SQL.MovetoSchema	SQL.スキーマへ移動	4	Microsoft SQL Server Data Tools, テーブル デザイナー::Ctrl+R, Ctrl+M
+{ABF9951D-5255-44C2-BDCC-B9231F81830C}	1792	EditorContextMenus.CodeWindow.GoToView	エディターコンテキストメニュー.コードウィンドウ.ビューに移動する	1	全体::Ctrl+M, Ctrl+G
+{000AF700-CF09-4582-9E1C-2603403AB647}	24658	SQL.ExpandWildcards	SQL.ワイルドカードの展開	1	Microsoft SQL Server Data Tools, T-SQL Editor::Ctrl+R, E
+{000AF700-CF09-4582-9E1C-2603403AB647}	24658	SQL.ExpandWildcards	SQL.ワイルドカードの展開	2	Microsoft SQL Server Data Tools, T-SQL Editor::Ctrl+R, Ctrl+E
+{000AF700-CF09-4582-9E1C-2603403AB647}	24658	SQL.ExpandWildcards	SQL.ワイルドカードの展開	3	Microsoft SQL Server Data Tools, テーブル デザイナー::Ctrl+R, E
+{000AF700-CF09-4582-9E1C-2603403AB647}	24658	SQL.ExpandWildcards	SQL.ワイルドカードの展開	4	Microsoft SQL Server Data Tools, テーブル デザイナー::Ctrl+R, Ctrl+E
+{9255CE9F-E741-48A6-92DF-3DDE7BEBA8E5}	2048	OtherContextMenus.HTMLContext.GoToController	その他のコンテキストメニュー.HTMLコンテキスト.コントローラーに移動する	1	HTML エディター::Ctrl+M, Ctrl+G
+{9255CE9F-E741-48A6-92DF-3DDE7BEBA8E5}	2048	OtherContextMenus.HTMLContext.GoToController	その他のコンテキストメニュー.HTMLコンテキスト.コントローラーに移動する	2	HTML エディター ソース ビュー::Ctrl+M, Ctrl+G
+{000AF700-CF09-4582-9E1C-2603403AB647}	24659	SQL.FullyqualifyNames	SQL.完全修飾名	1	Microsoft SQL Server Data Tools, T-SQL Editor::Ctrl+R, Q
+{000AF700-CF09-4582-9E1C-2603403AB647}	24659	SQL.FullyqualifyNames	SQL.完全修飾名	2	Microsoft SQL Server Data Tools, T-SQL Editor::Ctrl+R, Ctrl+Q
+{000AF700-CF09-4582-9E1C-2603403AB647}	24659	SQL.FullyqualifyNames	SQL.完全修飾名	3	Microsoft SQL Server Data Tools, テーブル デザイナー::Ctrl+R, Q
+{000AF700-CF09-4582-9E1C-2603403AB647}	24659	SQL.FullyqualifyNames	SQL.完全修飾名	4	Microsoft SQL Server Data Tools, テーブル デザイナー::Ctrl+R, Ctrl+Q
+{712C6C80-883B-4AAD-B430-BBCA5256FA9D}	77	EditorContextMenus.CodeWindow.Annotation.MoveToNextAnnotation	エディターコンテキストメニュー.コードウィンドウ.注釈.次の注釈に移動	1	全体::Ctrl+K, Ctrl+右矢印
+{000AF700-CF09-4582-9E1C-2603403AB647}	2816	SQL.QueryResultsStop	SQL.クエリ結果停止	1	クエリ結果::Alt+Break
+{712C6C80-883B-4AAD-B430-BBCA5256FA9D}	78	EditorContextMenus.CodeWindow.Annotation.MoveToPreviousAnnotation	エディターコンテキストメニュー.コードウィンドウ.注釈.前の注釈に移動	1	全体::Ctrl+K, Ctrl+左矢印
+{712C6C80-883B-4AAD-B430-BBCA5256FA9D}	79	EditorContextMenus.CodeWindow.Annotation.ShowStructure	エディターコンテキストメニュー.コードウィンドウ.注釈.構造の表示	1	全体::Ctrl+K, Ctrl+G
+{000AF700-CF09-4582-9E1C-2603403AB647}	2817	SQL.QueryResultsRefresh	SQL.クエリ結果更新	1	クエリ結果::Shift+Alt+R
+{000AF700-CF09-4582-9E1C-2603403AB647}	2818	SQL.QueryResultsNewRow	SQL.クエリ結果新規行	1	クエリ結果::Alt+End
+{D63DB1F0-404E-4B21-9648-CA8D99245EC3}	26	OtherContextMenus.FSIConsoleContext.CancelInteractiveEvaluation	その他のコンテキストメニュー.FSIConsoleContext.対話形式の評価を取り消し	1	不明なエディターです。::Ctrl+Break
+{E286548F-5085-4E2B-A4FD-5984CCB553BC}	768	View.CallHierarchy	表示.呼び出し階層	1	全体::Ctrl+Alt+K
+{06353851-A907-4151-A2CB-CA903185E505}	256	Project.ClassWizard	プロジェクト.クラスウィザード	1	全体::Ctrl+Shift+X
+{0E455B35-F2EB-431B-A0BE-B268D8A7D17F}	260	OtherContextMenus.FSIConsoleContext.StartDebugging	その他のコンテキストメニュー.FSIConsoleContext.StartDebugging	1	不明なエディターです。::Ctrl+Alt+D
+{5D8847D1-9A8A-431E-907A-62D9963F07FD}	8193	Debug.IntelliTraceEvents	デバッグ.IntelliTraceイベント	1	全体::Ctrl+Alt+Y, F
+{CD203EB7-5920-47F9-8927-1804E7498464}	1282	Debug.ParallelWatch2	デバッグ.並列ウォッチ2	1	全体::Ctrl+Shift+D, 2
+{82E1D55B-7E76-4319-AD60-94CC79C643C1}	1024	Format.Bold	Format.Bold	1	Markdown Editor::Ctrl+B
+{82E1D55B-7E76-4319-AD60-94CC79C643C1}	1056	Format.InlineCode	Format.InlineCode	1	Markdown Editor::Ctrl+Shift+C
+{0E455B35-F2EB-431B-A0BE-B268D8A7D17F}	261	OtherContextMenus.FSIConsoleContext.StopDebugging	その他のコンテキストメニュー.FSIConsoleContext.StopDebugging	1	不明なエディターです。::Ctrl+Shift+D
+{5D8847D1-9A8A-431E-907A-62D9963F07FD}	8256	Debug.IntelliTraceCalls	デバッグ.IntelliTraceの呼び出し	1	全体::Ctrl+Alt+Y, T
+{00B8868B-F9F5-4970-A048-410B05508506}	269	InteractiveConsole.CopyToInteractive	InteractiveConsole.CopyToInteractive	1	テキスト エディター::Ctrl+K, Ctrl+Enter
+{D63DB1F0-404E-4B21-9648-CA8D99245EC3}	27	OtherContextMenus.FSIConsoleContext.ResetInteractiveSession	その他のコンテキストメニュー.FSIConsoleContext.対話形式のセッションをリセット	1	不明なエディターです。::Ctrl+Alt+R
+{1E198C22-5980-4E7E-92F3-F73168D1FB63}	20481	テスト.CodeCoverageResults	テスト.コードカバレッジの結果	1	全体::Ctrl+E, C
+{000AF700-CF09-4582-9E1C-2603403AB647}	2081	CommitAllEdits	すべての編集のコミット	1	Microsoft SQL Server Data Tools, T-SQL Editor::Shift+Alt+U
+{000AF700-CF09-4582-9E1C-2603403AB647}	2081	CommitAllEdits	すべての編集のコミット	2	Microsoft SQL Server Data Tools, テーブル デザイナー::Shift+Alt+U
+{CD203EB7-5920-47F9-8927-1804E7498464}	1283	Debug.ParallelWatch3	デバッグ.並列ウォッチ3	1	全体::Ctrl+Shift+D, 3
+{CD203EB7-5920-47F9-8927-1804E7498464}	1284	Debug.ParallelWatch4	デバッグ.並列ウォッチ4	1	全体::Ctrl+Shift+D, 4
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	17	Edit.Delete	編集.削除	1	クラス ダイアグラム::Ctrl+Del
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	17	Edit.Delete	編集.削除	2	依存関係検証ダイアグラム::Shift+Del
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	17	Edit.Delete	編集.削除	3	全体::Del
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	17	Edit.Delete	編集.削除	4	チーム エクスプローラー::Del
+{160961B3-909D-4B28-9353-A1BEF587B4A6}	1	Edit.Duplicate	編集.複製	1	テキスト エディター::Ctrl+D
+{160961B3-909D-4B28-9353-A1BEF587B4A6}	1	Edit.Duplicate	編集.複製	2	テキスト エディター::Ctrl+E, V
+{160961B3-909D-4B28-9353-A1BEF587B4A6}	1	Edit.Duplicate	編集.複製	3	テキスト エディター::Ctrl+E, Ctrl+V
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1955	OtherContextMenus.DbTableContext.Add.Column	その他のコンテキストメニュー.データベーステーブルコンテキスト.追加.列	1	DataSet エディター::Ctrl+L
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	1968	OtherContextMenus.ColumnContext.InsertColumn	その他のコンテキストメニュー.列コンテキスト.列の挿入	1	DataSet エディター::Ins
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	940	Edit.ExpandSelection	編集.選択対象の展開	1	テキスト エディター::Shift+Alt+;
+{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}	941	Edit.ContractseSelection	編集.ContractSelection	1	テキスト エディター::Shift+Alt+-
+{430BFE20-7DD4-4875-9854-EF712413D4B0}	258	Debug.RefreshWindowsapp	デバッグ.Windowsアプリケーションの更新	1	全体::Ctrl+Shift+R
+{FB41A027-57C5-4F83-9508-C326DCE6D943}	10381	Edit.ExpandCollapseBaseTypeList	編集.基本型の一覧を展開する折りたたむ	1	クラス ダイアグラム::Shift+Alt+B
+{FB41A027-57C5-4F83-9508-C326DCE6D943}	10380	Edit.NavigateToLollipop	編集.ロリポップへ移動	1	クラス ダイアグラム::Shift+Alt+L
+{FB41A027-57C5-4F83-9508-C326DCE6D943}	10536	ClassDiagram.Collapse	クラスダイアグラム.折りたたむ	1	クラス ダイアグラム::Num -
+{FB41A027-57C5-4F83-9508-C326DCE6D943}	10537	ClassDiagram.Expand	クラスダイアグラム.展開	1	クラス ダイアグラム::Num +
+{FB41A027-57C5-4F83-9508-C326DCE6D943}	10500	Edit.RemovefromDiagram	編集.ダイアグラムから削除	1	クラス ダイアグラム::Del
+{CFB400F1-5C60-4F3C-856E-180D28DEF0B7}	260	File.OpenFolder	ファイル.フォルダー	1	全体::Ctrl+Shift+Alt+O
+{C7547851-4E3A-4E5B-9173-FA6E9C8BD82C}	44	File.OpenWebSite	ファイル.Webサイトを開く	1	全体::Shift+Alt+O
+{E4B9BB05-1963-4774-8CFC-518359E3FCE3}	12034	Edit.RemoveRow	編集.行の消去	1	マネージド リソース エディター::Ctrl+Del
+{E4B9BB05-1963-4774-8CFC-518359E3FCE3}	12034	Edit.RemoveRow	編集.行の消去	2	設定デザイナー::Ctrl+Del
+{C5F1193E-F300-41B3-B4C4-5A703DD3C1C6}	4097	GitHub.NextComment	GitHub.NextComment	1	全体::Alt+]
+{C5F1193E-F300-41B3-B4C4-5A703DD3C1C6}	4098	GitHub.PreviousComment	GitHub.PreviousComment	1	全体::Alt+[
+{B61E1A20-8C13-49A9-A727-A0EC091647DD}	512	Edit.GoToImplementation	編集.実装に移動	1	CSharp エディター::Ctrl+F12
+{B61E1A20-8C13-49A9-A727-A0EC091647DD}	512	Edit.GoToImplementation	編集.実装に移動	2	エンコード付き CSharp エディター::Ctrl+F12
+{B61E1A20-8C13-49A9-A727-A0EC091647DD}	512	Edit.GoToImplementation	編集.実装に移動	3	Microsoft Visual Basic エディター::Ctrl+F12
+{B61E1A20-8C13-49A9-A727-A0EC091647DD}	512	Edit.GoToImplementation	編集.実装に移動	4	Microsoft Visual Basic コード ページ エディター::Ctrl+F12
+{E4B9BB05-1963-4774-8CFC-518359E3FCE3}	12032	Edit.EditCell	編集.セルの編集	1	マネージド リソース エディター::F2
+{E4B9BB05-1963-4774-8CFC-518359E3FCE3}	12032	Edit.EditCell	編集.セルの編集	2	設定デザイナー::F2
+{24FC9963-73A7-4B4D-AAA2-87D424E87BC7}	1280	View.Branch	表示.分岐	1	全体::Ctrl+Alt+F3
+{EF254CCF-CEE3-43E9-A22C-3AE3AB08E7FE}	256	View.ShowTaskStatusCenter	表示.タスクステータスセンターの表示	1	全体::Ctrl+E, Ctrl+T
+{24FC9963-73A7-4B4D-AAA2-87D424E87BC7}	1536	View.Repository	表示.リポジトリ	1	全体::Ctrl+Alt+F4
+{24FC9963-73A7-4B4D-AAA2-87D424E87BC7}	1792	View.PendingChanges	表示.保留中の変更	1	全体::Ctrl+Alt+F7
+{24FC9963-73A7-4B4D-AAA2-87D424E87BC7}	2048	View.UnpublishedCommits	表示.未公開のコミット	1	全体::Ctrl+E, Ctrl+C
+{24FC9963-73A7-4B4D-AAA2-87D424E87BC7}	2304	View.Publish	表示.公開	1	全体::Ctrl+Alt+F9
+{D151DC93-2D8A-422C-BEDF-42F16968C929}	1792	Help.UnityAPIReference	ヘルプ.UnityAPIリファレンス	1	全体::Ctrl+Alt+M, Ctrl+H
+{746910DA-3A87-4255-A4AE-D1083B0572A0}	520	View.DataSources	表示.データソース	1	全体::Shift+Alt+D
+{9E78B319-2142-4381-873C-6EC83F092915}	259	View.TaskRunnerExplorer	表示.タスクランナーエクスプローラー	1	全体::Ctrl+Alt+Bkspce
+{11AC0A76-365E-490D-ABAD-E44E52897C7D}	2	View.EntityDataModelMappingDetails	表示.EntityDataModelマッピングの詳細	1	ADO.NET  Entity Data Model Designer::Ctrl+2
+{11AC0A76-365E-490D-ABAD-E44E52897C7D}	1	View.EntityDataModelBrowser	表示.EntityDataModelブラウザー	1	ADO.NET  Entity Data Model Designer::Ctrl+1
+{695E37E2-C6DF-4E0A-8833-F688E4C65F1F}	512	View.Node.jsInteractiveWindow	表示.Node.js対話型ウィンドウ	1	全体::Ctrl+K, N
+{0BE3B0D7-4FC2-45BF-A168-957E8A8834D0}	257	View.F#Interactive	表示.F#Interactive	1	全体::Ctrl+Alt+F
+{D63DB1F0-404E-4B21-9648-CA8D99245EC3}	24	EditorContextMenus.CodeWindow.ExecuteInInteractive	エディターコンテキストメニュー.コードウィンドウ.対話形式で実行	1	FSharpEditorFactory::Alt+Enter
+{D63DB1F0-404E-4B21-9648-CA8D99245EC3}	25	EditorContextMenus.CodeWindow.ExecuteLineInInteractive	エディターコンテキストメニュー.コードウィンドウ.対話形式で行を実行	1	FSharpEditorFactory::Alt+^
+{5D7E7F65-A63F-46EE-84F1-990B2CAB23F9}	6435	EditorContextMenus.CodeWindow.RemoveAndSort	エディターコンテキストメニュー.コードウィンドウ.削除および並べ替え	1	全体::Ctrl+R, Ctrl+G
+{5D7E7F65-A63F-46EE-84F1-990B2CAB23F9}	6435	EditorContextMenus.CodeWindow.RemoveAndSort	エディターコンテキストメニュー.コードウィンドウ.削除および並べ替え	2	全体::Ctrl+R, G
+{2A8866DC-7BDE-4DC8-A360-A60679534384}	256	Edit.NavigateTo	編集.すべてに移動	1	全体::Ctrl+T
+{2A8866DC-7BDE-4DC8-A360-A60679534384}	256	Edit.NavigateTo	編集.すべてに移動	2	全体::Ctrl+,
+{712C6C80-883B-4AAD-B430-BBCA5256FA9D}	1	Edit.GoToFile	編集.ファイルに移動	1	全体::Ctrl+Shift+T
+{712C6C80-883B-4AAD-B430-BBCA5256FA9D}	1	Edit.GoToFile	編集.ファイルに移動	2	全体::Ctrl+1, Ctrl+F
+{712C6C80-883B-4AAD-B430-BBCA5256FA9D}	1	Edit.GoToFile	編集.ファイルに移動	3	全体::Ctrl+1, F
+{712C6C80-883B-4AAD-B430-BBCA5256FA9D}	5	Edit.GoToRecentFile	編集.最近使ったファイルへ移動	1	全体::Ctrl+1, Ctrl+R
+{712C6C80-883B-4AAD-B430-BBCA5256FA9D}	5	Edit.GoToRecentFile	編集.最近使ったファイルへ移動	2	全体::Ctrl+1, R
+{712C6C80-883B-4AAD-B430-BBCA5256FA9D}	2	Edit.GoToType	編集.種類に移動	1	全体::Ctrl+1, Ctrl+T
+{712C6C80-883B-4AAD-B430-BBCA5256FA9D}	2	Edit.GoToType	編集.種類に移動	2	全体::Ctrl+1, T
+{712C6C80-883B-4AAD-B430-BBCA5256FA9D}	4	Edit.GoToMember	編集.メンバーに移動	1	全体::Alt+\
+{712C6C80-883B-4AAD-B430-BBCA5256FA9D}	4	Edit.GoToMember	編集.メンバーに移動	2	全体::Ctrl+1, Ctrl+M
+{712C6C80-883B-4AAD-B430-BBCA5256FA9D}	4	Edit.GoToMember	編集.メンバーに移動	3	全体::Ctrl+1, M
+{712C6C80-883B-4AAD-B430-BBCA5256FA9D}	3	Edit.GoToSymbol	編集.シンボルに移動	1	全体::Ctrl+1, Ctrl+S
+{712C6C80-883B-4AAD-B430-BBCA5256FA9D}	3	Edit.GoToSymbol	編集.シンボルに移動	2	全体::Ctrl+1, S
+{4E34904B-2FCA-4C0A-90A6-B07CC1AE3AEB}	1025	View.UnityProjectExplorer	表示.Unityプロジェクトエクスプローラー	1	全体::Shift+Alt+E
+{F4E9C55F-7F73-4913-B146-2A610205A60D}	257	View.CloudExplorer	表示.CloudExplorer	1	全体::Ctrl+\, Ctrl+X
+{03F46784-2F90-4122-91EC-72FF9E11D9A3}	257	View.SQLServerObjectExplorer	表示.SQLServerオブジェクトエクスプローラー	1	全体::Ctrl+\, Ctrl+S
+{2A8866DC-7BDE-4DC8-A360-A60679534384}	1	View.Notifications	表示.通知	1	全体::Ctrl+W, N
+{2A8866DC-7BDE-4DC8-A360-A60679534384}	1	View.Notifications	表示.通知	2	全体::Ctrl+W, Ctrl+N
+{EB2F90AC-EE02-4A6A-8294-6E96E273EE97}	16	Architecture.NewDependencyValidationDiagram	アーキテクチャ.新しい依存関係検証ダイアグラム	1	全体::Ctrl+\, Ctrl+N
+{D63DB1F0-404E-4B21-9648-CA8D99245EC3}	36	SolutionExplorer.SyncWithActiveDocument	エディターコンテキストメニュー.ナビゲート.アクティブドキュメントとの同期	1	全体::Ctrl+[, S
+{D63DB1F0-404E-4B21-9648-CA8D99245EC3}	36	SolutionExplorer.SyncWithActiveDocument	エディターコンテキストメニュー.ナビゲート.アクティブドキュメントとの同期	2	全体::Ctrl+[, Ctrl+S
+{D7E8C5E1-BDB8-11D0-9C88-0000F8040A53}	15023	View.SynchronizeViews	表示.ビューの同期	1	HTML エディター ソース ビュー::Ctrl+Shift+Y
+{6CD672F5-9C1A-11D1-ADE3-00C04FB6BE4C}	35113	EditorContextMenus.CodeWindow.ToggleHeaderCodeFile	エディターコンテキストメニュー.コードウィンドウ.ヘッダーコードファイルの切り替え	1	全体::Ctrl+K, Ctrl+O
+{2DE0DE2F-69B8-413D-93C8-1DFA6FB1E363}	18	Tools.RefreshSuggestions	ツール.RefreshSuggestions	1	Microsoft SQL Server Data Tools, T-SQL Editor::Ctrl+Shift+D
+{2DE0DE2F-69B8-413D-93C8-1DFA6FB1E363}	18	Tools.RefreshSuggestions	ツール.RefreshSuggestions	2	Microsoft SQL Server Data Tools, テーブル デザイナー::Ctrl+Shift+D
+{2DE0DE2F-69B8-413D-93C8-1DFA6FB1E363}	18	Tools.RefreshSuggestions	ツール.RefreshSuggestions	3	Microsoft SQL Server Data Tools, T-SQL PDW エディター::Ctrl+Shift+D
+{2DE0DE2F-69B8-413D-93C8-1DFA6FB1E363}	0	Tools.EnableSuggestions	ツール.EnableSuggestions	1	Microsoft SQL Server Data Tools, T-SQL Editor::Ctrl+Shift+P
+{2DE0DE2F-69B8-413D-93C8-1DFA6FB1E363}	0	Tools.EnableSuggestions	ツール.EnableSuggestions	2	Microsoft SQL Server Data Tools, テーブル デザイナー::Ctrl+Shift+P
+{2DE0DE2F-69B8-413D-93C8-1DFA6FB1E363}	0	Tools.EnableSuggestions	ツール.EnableSuggestions	3	Microsoft SQL Server Data Tools, T-SQL PDW エディター::Ctrl+Shift+P
+{2DE0DE2F-69B8-413D-93C8-1DFA6FB1E363}	6	Tools.ApplyCasingOptions	ツール.ApplyCasingOptions	1	Microsoft SQL Server Data Tools, T-SQL Editor::Ctrl+B, Ctrl+U
+{2DE0DE2F-69B8-413D-93C8-1DFA6FB1E363}	6	Tools.ApplyCasingOptions	ツール.ApplyCasingOptions	2	Microsoft SQL Server Data Tools, テーブル デザイナー::Ctrl+B, Ctrl+U
+{2DE0DE2F-69B8-413D-93C8-1DFA6FB1E363}	6	Tools.ApplyCasingOptions	ツール.ApplyCasingOptions	3	Microsoft SQL Server Data Tools, T-SQL PDW エディター::Ctrl+B, Ctrl+U
+{2DE0DE2F-69B8-413D-93C8-1DFA6FB1E363}	9	Tools.QualifyObjectNames	ツール.QualifyObjectNames	1	Microsoft SQL Server Data Tools, T-SQL Editor::Ctrl+B, Ctrl+Q
+{2DE0DE2F-69B8-413D-93C8-1DFA6FB1E363}	9	Tools.QualifyObjectNames	ツール.QualifyObjectNames	2	Microsoft SQL Server Data Tools, テーブル デザイナー::Ctrl+B, Ctrl+Q
+{2DE0DE2F-69B8-413D-93C8-1DFA6FB1E363}	9	Tools.QualifyObjectNames	ツール.QualifyObjectNames	3	Microsoft SQL Server Data Tools, T-SQL PDW エディター::Ctrl+B, Ctrl+Q
+{2DE0DE2F-69B8-413D-93C8-1DFA6FB1E363}	8	Tools.ExpandWildcards	ツール.ExpandWildcards	1	Microsoft SQL Server Data Tools, T-SQL Editor::Ctrl+B, Ctrl+W
+{2DE0DE2F-69B8-413D-93C8-1DFA6FB1E363}	8	Tools.ExpandWildcards	ツール.ExpandWildcards	2	Microsoft SQL Server Data Tools, テーブル デザイナー::Ctrl+B, Ctrl+W
+{2DE0DE2F-69B8-413D-93C8-1DFA6FB1E363}	8	Tools.ExpandWildcards	ツール.ExpandWildcards	3	Microsoft SQL Server Data Tools, T-SQL PDW エディター::Ctrl+B, Ctrl+W
+{2DE0DE2F-69B8-413D-93C8-1DFA6FB1E363}	7	Tools.InsertSemicolons	ツール.InsertSemicolons	1	Microsoft SQL Server Data Tools, T-SQL Editor::Ctrl+B, Ctrl+C
+{2DE0DE2F-69B8-413D-93C8-1DFA6FB1E363}	7	Tools.InsertSemicolons	ツール.InsertSemicolons	2	Microsoft SQL Server Data Tools, テーブル デザイナー::Ctrl+B, Ctrl+C
+{2DE0DE2F-69B8-413D-93C8-1DFA6FB1E363}	7	Tools.InsertSemicolons	ツール.InsertSemicolons	3	Microsoft SQL Server Data Tools, T-SQL PDW エディター::Ctrl+B, Ctrl+C
+{2DE0DE2F-69B8-413D-93C8-1DFA6FB1E363}	10	Tools.RemoveSquareBrackets	ツール.RemoveSquareBrackets	1	Microsoft SQL Server Data Tools, T-SQL Editor::Ctrl+B, Ctrl+B
+{2DE0DE2F-69B8-413D-93C8-1DFA6FB1E363}	10	Tools.RemoveSquareBrackets	ツール.RemoveSquareBrackets	2	Microsoft SQL Server Data Tools, テーブル デザイナー::Ctrl+B, Ctrl+B
+{2DE0DE2F-69B8-413D-93C8-1DFA6FB1E363}	10	Tools.RemoveSquareBrackets	ツール.RemoveSquareBrackets	3	Microsoft SQL Server Data Tools, T-SQL PDW エディター::Ctrl+B, Ctrl+B
+{2DE0DE2F-69B8-413D-93C8-1DFA6FB1E363}	12	Tools.SummarizeScript	ツール.SummarizeScript	1	Microsoft SQL Server Data Tools, T-SQL Editor::Ctrl+B, Ctrl+S
+{2DE0DE2F-69B8-413D-93C8-1DFA6FB1E363}	12	Tools.SummarizeScript	ツール.SummarizeScript	2	Microsoft SQL Server Data Tools, テーブル デザイナー::Ctrl+B, Ctrl+S
+{2DE0DE2F-69B8-413D-93C8-1DFA6FB1E363}	12	Tools.SummarizeScript	ツール.SummarizeScript	3	Microsoft SQL Server Data Tools, T-SQL PDW エディター::Ctrl+B, Ctrl+S
+{2DE0DE2F-69B8-413D-93C8-1DFA6FB1E363}	11	Tools.FindUnusedVariablesandParameters	ツール.FindUnusedVariablesandParameters	1	Microsoft SQL Server Data Tools, T-SQL Editor::Ctrl+B, Ctrl+F
+{2DE0DE2F-69B8-413D-93C8-1DFA6FB1E363}	11	Tools.FindUnusedVariablesandParameters	ツール.FindUnusedVariablesandParameters	2	Microsoft SQL Server Data Tools, テーブル デザイナー::Ctrl+B, Ctrl+F
+{2DE0DE2F-69B8-413D-93C8-1DFA6FB1E363}	11	Tools.FindUnusedVariablesandParameters	ツール.FindUnusedVariablesandParameters	3	Microsoft SQL Server Data Tools, T-SQL PDW エディター::Ctrl+B, Ctrl+F
+{3062F745-4EA9-4C48-AC62-802D23542690}	11	Tools.ScriptObjectasALTER	ツール.ScriptObjectasALTER	1	Microsoft SQL Server Data Tools, T-SQL Editor::F12
+{3062F745-4EA9-4C48-AC62-802D23542690}	11	Tools.ScriptObjectasALTER	ツール.ScriptObjectasALTER	2	Microsoft SQL Server Data Tools, テーブル デザイナー::F12
+{3062F745-4EA9-4C48-AC62-802D23542690}	11	Tools.ScriptObjectasALTER	ツール.ScriptObjectasALTER	3	Microsoft SQL Server Data Tools, T-SQL PDW エディター::F12
+{2DE0DE2F-69B8-413D-93C8-1DFA6FB1E363}	5	Tools.FormatSQL	ツール.FormatSQL	1	Microsoft SQL Server Data Tools, T-SQL Editor::Ctrl+K, Ctrl+Y
+{2DE0DE2F-69B8-413D-93C8-1DFA6FB1E363}	5	Tools.FormatSQL	ツール.FormatSQL	2	Microsoft SQL Server Data Tools, テーブル デザイナー::Ctrl+K, Ctrl+Y
+{2DE0DE2F-69B8-413D-93C8-1DFA6FB1E363}	5	Tools.FormatSQL	ツール.FormatSQL	3	Microsoft SQL Server Data Tools, T-SQL PDW エディター::Ctrl+K, Ctrl+Y
+{2DE0DE2F-69B8-413D-93C8-1DFA6FB1E363}	40	Tools.EnableCodeAnalysis	ツール.EnableCodeAnalysis	1	Microsoft SQL Server Data Tools, T-SQL Editor::Ctrl+Shift+A
+{3062F745-4EA9-4C48-AC62-802D23542690}	11	Tools.ScriptObjectasALTER	ツール.ScriptObjectasALTER	1	Microsoft SQL Server Data Tools, T-SQL Editor::F12
+{3062F745-4EA9-4C48-AC62-802D23542690}	11	Tools.ScriptObjectasALTER	ツール.ScriptObjectasALTER	2	Microsoft SQL Server Data Tools, テーブル デザイナー::F12
+{3062F745-4EA9-4C48-AC62-802D23542690}	11	Tools.ScriptObjectasALTER	ツール.ScriptObjectasALTER	3	Microsoft SQL Server Data Tools, T-SQL PDW エディター::F12
+{3062F745-4EA9-4C48-AC62-802D23542690}	9	EditorContextMenus.CodeWindow.RenameAliasVariable	エディターコンテキストメニュー.コードウィンドウ.RenameAliasVariable	1	Microsoft SQL Server Data Tools, T-SQL Editor::Shift+F2
+{3062F745-4EA9-4C48-AC62-802D23542690}	9	EditorContextMenus.CodeWindow.RenameAliasVariable	エディターコンテキストメニュー.コードウィンドウ.RenameAliasVariable	2	Microsoft SQL Server Data Tools, テーブル デザイナー::Shift+F2
+{3062F745-4EA9-4C48-AC62-802D23542690}	9	EditorContextMenus.CodeWindow.RenameAliasVariable	エディターコンテキストメニュー.コードウィンドウ.RenameAliasVariable	3	Microsoft SQL Server Data Tools, T-SQL PDW エディター::Shift+F2
+{2DE0DE2F-69B8-413D-93C8-1DFA6FB1E363}	37	EditorContextMenus.CodeWindow.InlineEXEC	エディターコンテキストメニュー.コードウィンドウ.InlineEXEC	1	Microsoft SQL Server Data Tools, T-SQL Editor::Ctrl+B, Ctrl+I
+{3062F745-4EA9-4C48-AC62-802D23542690}	6	EditorContextMenus.CodeWindow.ExecuteCurrentStatement	エディターコンテキストメニュー.コードウィンドウ.ExecuteCurrentStatement	1	Microsoft SQL Server Data Tools, T-SQL Editor::Shift+F5
+{3062F745-4EA9-4C48-AC62-802D23542690}	6	EditorContextMenus.CodeWindow.ExecuteCurrentStatement	エディターコンテキストメニュー.コードウィンドウ.ExecuteCurrentStatement	2	Microsoft SQL Server Data Tools, テーブル デザイナー::Shift+F5
+{3062F745-4EA9-4C48-AC62-802D23542690}	6	EditorContextMenus.CodeWindow.ExecuteCurrentStatement	エディターコンテキストメニュー.コードウィンドウ.ExecuteCurrentStatement	3	Microsoft SQL Server Data Tools, T-SQL PDW エディター::Shift+F5
+{3062F745-4EA9-4C48-AC62-802D23542690}	7	EditorContextMenus.CodeWindow.ExecuteCurrentBatch	エディターコンテキストメニュー.コードウィンドウ.ExecuteCurrentBatch	1	Microsoft SQL Server Data Tools, T-SQL Editor::Shift+Alt+F5
+{2DE0DE2F-69B8-413D-93C8-1DFA6FB1E363}	45	EditorContextMenus.CodeWindow.RefactorINSERTIntoUPDATE	エディターコンテキストメニュー.コードウィンドウ.RefactorINSERTIntoUPDATE	1	Microsoft SQL Server Data Tools, T-SQL Editor::Ctrl+B, Ctrl+P
+{2DE0DE2F-69B8-413D-93C8-1DFA6FB1E363}	45	EditorContextMenus.CodeWindow.RefactorINSERTIntoUPDATE	エディターコンテキストメニュー.コードウィンドウ.RefactorINSERTIntoUPDATE	2	Microsoft SQL Server Data Tools, T-SQL PDW エディター::Ctrl+B, Ctrl+P
+{2DE0DE2F-69B8-413D-93C8-1DFA6FB1E363}	18	Tools.RefreshSuggestions	ツール.RefreshSuggestions	1	Microsoft SQL Server Data Tools, T-SQL Editor::Ctrl+Shift+D
+{2DE0DE2F-69B8-413D-93C8-1DFA6FB1E363}	18	Tools.RefreshSuggestions	ツール.RefreshSuggestions	2	Microsoft SQL Server Data Tools, テーブル デザイナー::Ctrl+Shift+D
+{2DE0DE2F-69B8-413D-93C8-1DFA6FB1E363}	18	Tools.RefreshSuggestions	ツール.RefreshSuggestions	3	Microsoft SQL Server Data Tools, T-SQL PDW エディター::Ctrl+Shift+D
+{2DE0DE2F-69B8-413D-93C8-1DFA6FB1E363}	0	Tools.EnableSuggestions	ツール.EnableSuggestions	1	Microsoft SQL Server Data Tools, T-SQL Editor::Ctrl+Shift+P
+{2DE0DE2F-69B8-413D-93C8-1DFA6FB1E363}	0	Tools.EnableSuggestions	ツール.EnableSuggestions	2	Microsoft SQL Server Data Tools, テーブル デザイナー::Ctrl+Shift+P
+{2DE0DE2F-69B8-413D-93C8-1DFA6FB1E363}	0	Tools.EnableSuggestions	ツール.EnableSuggestions	3	Microsoft SQL Server Data Tools, T-SQL PDW エディター::Ctrl+Shift+P
+{2DE0DE2F-69B8-413D-93C8-1DFA6FB1E363}	40	Tools.EnableCodeAnalysis	ツール.EnableCodeAnalysis	1	Microsoft SQL Server Data Tools, T-SQL Editor::Ctrl+Shift+A
+{9B529DC2-A902-4EEA-9DCE-9E348551ABA6}	776	Debug.DiagnosticTools.Show	デバッグ.診断ツールの表示	1	全体::Ctrl+Alt+F2
+{300A8877-B214-4385-8A7F-AB257498FFEB}	8201	Debug.StopPerformanceAnalysis	デバッグ.パフォーマンス分析の停止	1	全体::Shift+Alt+F2
+{9B529DC2-A902-4EEA-9DCE-9E348551ABA6}	4608	Debug.DiagnosticsHub.StopCollection	デバッグ.停止	1	全体::Ctrl+Shift+F2
+{9B529DC2-A902-4EEA-9DCE-9E348551ABA6}	775	Debug.DiagnosticsHub.Launch	デバッグ.パフォーマンスプロファイラー	1	全体::Alt+F2
+{7660636A-8C08-4430-A56F-146E42A8B2C5}	2	Edit.ShowCodeLensMenu	編集.CodeLensメニューの表示	1	テキスト エディター::Ctrl+K, @
+{7660636A-8C08-4430-A56F-146E42A8B2C5}	2	Edit.ShowCodeLensMenu	編集.CodeLensメニューの表示	2	テキスト エディター::Ctrl+K, Ctrl+@
+{160961B3-909D-4B28-9353-A1BEF587B4A6}	8	Edit.ShowNavigateMenu	編集.ナビゲートメニューの表示	1	テキスト エディター::Alt+@
+{160961B3-909D-4B28-9353-A1BEF587B4A6}	22	Edit.ExpandSelectiontoContainingBlock	編集.選択範囲を包含ブロックまで広げる	1	テキスト エディター::Shift+Alt+]
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	3	Format.AlignLefts	書式.左揃え	1	VC ダイアログ エディター::Ctrl+Shift+左矢印
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	4	Format.AlignRights	書式.右揃え	1	VC ダイアログ エディター::Ctrl+Shift+右矢印
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	6	Format.AlignTops	書式.上揃え	1	VC ダイアログ エディター::Ctrl+Shift+上矢印
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	2	Format.AlignMiddles	書式.上下中央整列	1	VC ダイアログ エディター::F9
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	1	Format.AlignBottoms	書式.下揃え	1	VC ダイアログ エディター::Ctrl+Shift+下矢印
+{6AB63085-C130-42CB-A868-CD9A1BCB9DFE}	16384	WorkflowDesigner.GoToParent	ワークフローデザイナー.親に移動	1	ワークフロー デザイナー::Ctrl+E, Ctrl+P
+{6AB63085-C130-42CB-A868-CD9A1BCB9DFE}	16384	WorkflowDesigner.GoToParent	ワークフローデザイナー.親に移動	2	ワークフロー デザイナー::Ctrl+E, P
+{6AB63085-C130-42CB-A868-CD9A1BCB9DFE}	16400	WorkflowDesigner.ExpandInPlace	ワークフローデザイナー.埋め込み先で展開	1	ワークフロー デザイナー::Ctrl+E, Ctrl+E
+{6AB63085-C130-42CB-A868-CD9A1BCB9DFE}	16400	WorkflowDesigner.ExpandInPlace	ワークフローデザイナー.埋め込み先で展開	2	ワークフロー デザイナー::Ctrl+E, E
+{6AB63085-C130-42CB-A868-CD9A1BCB9DFE}	16432	WorkflowDesigner.Collapse	ワークフローデザイナー.折りたたむ	1	ワークフロー デザイナー::Ctrl+E, Ctrl+C
+{6AB63085-C130-42CB-A868-CD9A1BCB9DFE}	16432	WorkflowDesigner.Collapse	ワークフローデザイナー.折りたたむ	2	ワークフロー デザイナー::Ctrl+E, C
+{6AB63085-C130-42CB-A868-CD9A1BCB9DFE}	16448	WorkflowDesigner.CollapseAll	ワークフローデザイナー.すべて折りたたむ	1	ワークフロー デザイナー::Ctrl+E, Ctrl+Y
+{6AB63085-C130-42CB-A868-CD9A1BCB9DFE}	16448	WorkflowDesigner.CollapseAll	ワークフローデザイナー.すべて折りたたむ	2	ワークフロー デザイナー::Ctrl+E, Y
+{6AB63085-C130-42CB-A868-CD9A1BCB9DFE}	16464	WorkflowDesigner.Restore	ワークフローデザイナー.復元	1	ワークフロー デザイナー::Ctrl+E, Ctrl+R
+{6AB63085-C130-42CB-A868-CD9A1BCB9DFE}	16464	WorkflowDesigner.Restore	ワークフローデザイナー.復元	2	ワークフロー デザイナー::Ctrl+E, R
+{6AB63085-C130-42CB-A868-CD9A1BCB9DFE}	16416	WorkflowDesigner.ExpandAll	ワークフローデザイナー.すべて展開	1	ワークフロー デザイナー::Ctrl+E, Ctrl+X
+{6AB63085-C130-42CB-A868-CD9A1BCB9DFE}	16416	WorkflowDesigner.ExpandAll	ワークフローデザイナー.すべて展開	2	ワークフロー デザイナー::Ctrl+E, X
+{6AB63085-C130-42CB-A868-CD9A1BCB9DFE}	17664	WorkflowDesigner.NavigateThroughDesigner	ワークフローデザイナー.デザイナー間の移動	1	ワークフロー デザイナー::Ctrl+Alt+F6
+{6AB63085-C130-42CB-A868-CD9A1BCB9DFE}	17152	WorkflowDesigner.ShowHideArgumentDesigner	ワークフローデザイナー.引数デザイナーの表示非表示	1	ワークフロー デザイナー::Ctrl+E, Ctrl+A
+{6AB63085-C130-42CB-A868-CD9A1BCB9DFE}	17152	WorkflowDesigner.ShowHideArgumentDesigner	ワークフローデザイナー.引数デザイナーの表示非表示	2	ワークフロー デザイナー::Ctrl+E, A
+{6AB63085-C130-42CB-A868-CD9A1BCB9DFE}	17168	WorkflowDesigner.ShowHideVariableDesigner	ワークフローデザイナー.変数デザイナーの表示非表示	1	ワークフロー デザイナー::Ctrl+E, Ctrl+V
+{6AB63085-C130-42CB-A868-CD9A1BCB9DFE}	17168	WorkflowDesigner.ShowHideVariableDesigner	ワークフローデザイナー.変数デザイナーの表示非表示	2	ワークフロー デザイナー::Ctrl+E, V
+{6AB63085-C130-42CB-A868-CD9A1BCB9DFE}	17200	WorkflowDesigner.ShowHideImportsDesigner	ワークフローデザイナー.インポートデザイナーの表示非表示	1	ワークフロー デザイナー::Ctrl+E, Ctrl+I
+{6AB63085-C130-42CB-A868-CD9A1BCB9DFE}	17200	WorkflowDesigner.ShowHideImportsDesigner	ワークフローデザイナー.インポートデザイナーの表示非表示	2	ワークフロー デザイナー::Ctrl+E, I
+{6AB63085-C130-42CB-A868-CD9A1BCB9DFE}	17184	WorkflowDesigner.ShowHideOverviewMap	ワークフローデザイナー.概要マップの表示非表示	1	ワークフロー デザイナー::Ctrl+E, Ctrl+O
+{6AB63085-C130-42CB-A868-CD9A1BCB9DFE}	17184	WorkflowDesigner.ShowHideOverviewMap	ワークフローデザイナー.概要マップの表示非表示	2	ワークフロー デザイナー::Ctrl+E, O
+{6AB63085-C130-42CB-A868-CD9A1BCB9DFE}	17408	WorkflowDesigner.CreateVariable	ワークフローデザイナー.変数の作成	1	ワークフロー デザイナー::Ctrl+E, Ctrl+N
+{6AB63085-C130-42CB-A868-CD9A1BCB9DFE}	17408	WorkflowDesigner.CreateVariable	ワークフローデザイナー.変数の作成	2	ワークフロー デザイナー::Ctrl+E, N
+{6AB63085-C130-42CB-A868-CD9A1BCB9DFE}	17440	WorkflowDesigner.ConnectNodes	ワークフローデザイナー.ノードの接続	1	ワークフロー デザイナー::Ctrl+E, Ctrl+F
+{6AB63085-C130-42CB-A868-CD9A1BCB9DFE}	17440	WorkflowDesigner.ConnectNodes	ワークフローデザイナー.ノードの接続	2	ワークフロー デザイナー::Ctrl+E, F
+{6AB63085-C130-42CB-A868-CD9A1BCB9DFE}	16896	WorkflowDesigner.ZoomIn	ワークフローデザイナー.ズームイン	1	ワークフロー デザイナー::Ctrl+Num +
+{6AB63085-C130-42CB-A868-CD9A1BCB9DFE}	16912	WorkflowDesigner.ZoomOut	ワークフローデザイナー.ズームアウト	1	ワークフロー デザイナー::Ctrl+Num -
+{6AB63085-C130-42CB-A868-CD9A1BCB9DFE}	16672	WorkflowDesigner.MoveFocus	ワークフローデザイナー.フォーカスの移動	1	ワークフロー デザイナー::Ctrl+E, Ctrl+M
+{6AB63085-C130-42CB-A868-CD9A1BCB9DFE}	16672	WorkflowDesigner.MoveFocus	ワークフローデザイナー.フォーカスの移動	2	ワークフロー デザイナー::Ctrl+E, M
+{6AB63085-C130-42CB-A868-CD9A1BCB9DFE}	16688	WorkflowDesigner.ToggleSelection	ワークフローデザイナー.選択範囲の切り替え	1	ワークフロー デザイナー::Ctrl+E, Ctrl+S
+{6AB63085-C130-42CB-A868-CD9A1BCB9DFE}	16688	WorkflowDesigner.ToggleSelection	ワークフローデザイナー.選択範囲の切り替え	2	ワークフロー デザイナー::Ctrl+E, S
+{E234E66E-BA64-4D71-B304-16F0A4C793F5}	16400	View.TfsTeamExplorer	表示.チームエクスプローラー	1	全体::Ctrl+\, Ctrl+M
+{E234E66E-BA64-4D71-B304-16F0A4C793F5}	17408	TeamFoundationContextMenus.Commands.GoToHome	TeamFoundationコンテキストメニュー.コマンド.ホームに移動	1	全体::Ctrl+0, Ctrl+H
+{E234E66E-BA64-4D71-B304-16F0A4C793F5}	17408	TeamFoundationContextMenus.Commands.GoToHome	TeamFoundationコンテキストメニュー.コマンド.ホームに移動	2	全体::Ctrl+0, H
+{E234E66E-BA64-4D71-B304-16F0A4C793F5}	17409	TeamFoundationContextMenus.Commands.GoToSettings	TeamFoundationコンテキストメニュー.コマンド.設定に移動	1	全体::Ctrl+0, Ctrl+S
+{E234E66E-BA64-4D71-B304-16F0A4C793F5}	17409	TeamFoundationContextMenus.Commands.GoToSettings	TeamFoundationコンテキストメニュー.コマンド.設定に移動	2	全体::Ctrl+0, S
+{E234E66E-BA64-4D71-B304-16F0A4C793F5}	17410	TeamFoundationContextMenus.Commands.GoToWebAccess	TeamFoundationコンテキストメニュー.コマンド.Webアクセスに移動	1	全体::Ctrl+0, Ctrl+A
+{E234E66E-BA64-4D71-B304-16F0A4C793F5}	17410	TeamFoundationContextMenus.Commands.GoToWebAccess	TeamFoundationコンテキストメニュー.コマンド.Webアクセスに移動	2	全体::Ctrl+0, A
+{E234E66E-BA64-4D71-B304-16F0A4C793F5}	17411	TeamFoundationContextMenus.Commands.GoToConnect	TeamFoundationコンテキストメニュー.コマンド.接続に移動	1	全体::Ctrl+0, Ctrl+C
+{E234E66E-BA64-4D71-B304-16F0A4C793F5}	17411	TeamFoundationContextMenus.Commands.GoToConnect	TeamFoundationコンテキストメニュー.コマンド.接続に移動	2	全体::Ctrl+0, C
+{E234E66E-BA64-4D71-B304-16F0A4C793F5}	17424	TeamFoundationContextMenus.Commands.TeamExplorerNavigateBackward	TeamFoundationコンテキストメニュー.コマンド.チームエクスプローラー前に戻る	1	チーム エクスプローラー::Alt+左矢印
+{E234E66E-BA64-4D71-B304-16F0A4C793F5}	17425	TeamFoundationContextMenus.Commands.TeamExplorerNavigateForward	TeamFoundationコンテキストメニュー.コマンド.チームエクスプローラー次に進む	1	チーム エクスプローラー::Alt+右矢印
+{E234E66E-BA64-4D71-B304-16F0A4C793F5}	17426	TeamFoundationContextMenus.Commands.GoToTeamExplorerNavigation	TeamFoundationコンテキストメニュー.コマンド.チームエクスプローラーナビゲーションに移動	1	チーム エクスプローラー::Alt+Home
+{E234E66E-BA64-4D71-B304-16F0A4C793F5}	17427	TeamFoundationContextMenus.Commands.GoToTeamExplorerPageContent	TeamFoundationコンテキストメニュー.コマンド.チームエクスプローラーページコンテンツに移動	1	チーム エクスプローラー::Alt+0
+{E234E66E-BA64-4D71-B304-16F0A4C793F5}	17428	TeamFoundationContextMenus.Commands.GoToTeamExplorerPreviousSectionContent	TeamFoundationコンテキストメニュー.コマンド.チームエクスプローラー前のセクションコンテンツに移動	1	チーム エクスプローラー::Alt+上矢印
+{E234E66E-BA64-4D71-B304-16F0A4C793F5}	17429	TeamFoundationContextMenus.Commands.GoToTeamExplorerNextSectionContent	TeamFoundationコンテキストメニュー.コマンド.チームエクスプローラー次のセクションコンテンツに移動	1	チーム エクスプローラー::Alt+下矢印
+{E234E66E-BA64-4D71-B304-16F0A4C793F5}	17441	TeamFoundationContextMenus.Commands.GoToTeamExplorerSection1Content	TeamFoundationコンテキストメニュー.コマンド.チームエクスプローラーセクション1コンテンツに移動	1	チーム エクスプローラー::Alt+1
+{E234E66E-BA64-4D71-B304-16F0A4C793F5}	17442	TeamFoundationContextMenus.Commands.GoToTeamExplorerSection2Content	TeamFoundationコンテキストメニュー.コマンド.チームエクスプローラーセクション2コンテンツに移動	1	チーム エクスプローラー::Alt+2
+{E234E66E-BA64-4D71-B304-16F0A4C793F5}	17443	TeamFoundationContextMenus.Commands.GoToTeamExplorerSection3Content	TeamFoundationコンテキストメニュー.コマンド.チームエクスプローラーセクション3コンテンツに移動	1	チーム エクスプローラー::Alt+3
+{E234E66E-BA64-4D71-B304-16F0A4C793F5}	17444	TeamFoundationContextMenus.Commands.GoToTeamExplorerSection4Content	TeamFoundationコンテキストメニュー.コマンド.チームエクスプローラーセクション4コンテンツに移動	1	チーム エクスプローラー::Alt+4
+{E234E66E-BA64-4D71-B304-16F0A4C793F5}	17445	TeamFoundationContextMenus.Commands.GoToTeamExplorerSection5Content	TeamFoundationコンテキストメニュー.コマンド.チームエクスプローラーセクション5コンテンツに移動	1	チーム エクスプローラー::Alt+5
+{E234E66E-BA64-4D71-B304-16F0A4C793F5}	17446	TeamFoundationContextMenus.Commands.GoToTeamExplorerSection6Content	TeamFoundationコンテキストメニュー.コマンド.チームエクスプローラーセクション6コンテンツに移動	1	チーム エクスプローラー::Alt+6
+{E234E66E-BA64-4D71-B304-16F0A4C793F5}	17447	TeamFoundationContextMenus.Commands.GoToTeamExplorerSection7Content	TeamFoundationコンテキストメニュー.コマンド.チームエクスプローラーセクション7コンテンツに移動	1	チーム エクスプローラー::Alt+7
+{E234E66E-BA64-4D71-B304-16F0A4C793F5}	17448	TeamFoundationContextMenus.Commands.GoToTeamExplorerSection8Content	TeamFoundationコンテキストメニュー.コマンド.チームエクスプローラーセクション8コンテンツに移動	1	チーム エクスプローラー::Alt+8
+{E234E66E-BA64-4D71-B304-16F0A4C793F5}	17449	TeamFoundationContextMenus.Commands.GoToTeamExplorerSection9Content	TeamFoundationコンテキストメニュー.コマンド.チームエクスプローラーセクション9コンテンツに移動	1	チーム エクスプローラー::Alt+9
+{4C87B692-1202-46AA-B64C-EF01FAEC53DA}	0	Design.ZoomIn	デザイン.拡大	1	XAML デザイナー::Ctrl+Alt+;
+{4C87B692-1202-46AA-B64C-EF01FAEC53DA}	2	Design.ZoomOut	デザイン.縮小	1	XAML デザイナー::Ctrl+Alt+-
+{4C87B692-1202-46AA-B64C-EF01FAEC53DA}	3	Design.FitAll	デザイン.全体を表示	1	XAML デザイナー::Ctrl+0
+{4C87B692-1202-46AA-B64C-EF01FAEC53DA}	6	Design.ShowHandles	デザイン.ハンドルの表示	1	XAML デザイナー::F9
+{4C87B692-1202-46AA-B64C-EF01FAEC53DA}	72	Design.RunProjectCode	デザイン.プロジェクトコードを実行	1	XAML デザイナー::Ctrl+F9
+{4C87B692-1202-46AA-B64C-EF01FAEC53DA}	71	Design.RefreshPage	デザイン.ページの更新	1	XAML デザイナー::Ctrl+R
+{4C87B692-1202-46AA-B64C-EF01FAEC53DA}	16	Format.EditText	書式.テキストの編集	1	XAML デザイナー::F2
+{4C87B692-1202-46AA-B64C-EF01FAEC53DA}	25	Format.ResetAll	書式.ResetLayout.All	1	XAML デザイナー::Ctrl+Shift+R
+{804FD2CC-2673-41B9-8CEC-D065FBFA3199}	265	OtherContextMenus.ORDesignerContextMenu.HideMethodsPane	その他のコンテキストメニュー.ORDesignerコンテキスト.メソッドペインの非表示	1	VisualStudio::Ctrl+1
+{D3040A70-F331-4788-BD5D-769EDC48626D}	12313	Tools.タブの切り替え	ツール.タブの切り替え	1	全体::Ctrl+Shift+F7
+{D3040A70-F331-4788-BD5D-769EDC48626D}	12314	Tools.分割表示モードの切り替え	ツール.分割表示モードの切り替え	1	全体::Ctrl+Shift+F8
+{14BCA3AF-5E27-4307-8492-84AF8647EA7C}	16432	Architecture.NewCodeMap	アーキテクチャ.新しいコードマップ	1	全体::Ctrl+\, Ctrl+O
+{ADC1BC7B-958B-4548-9F9F-10FC49099825}	8491	ArchitectureContextMenus.DirectedGraphContextMenu.Select.IncomingDependencies	アーキテクチャのコンテキストメニュー.有向グラフのコンテキストメニュー.選択.入力方向の依存関係	1	グラフ ドキュメント エディター::I
+{ADC1BC7B-958B-4548-9F9F-10FC49099825}	8490	ArchitectureContextMenus.DirectedGraphContextMenu.Select.OutgoingDependencies	アーキテクチャのコンテキストメニュー.有向グラフのコンテキストメニュー.選択.出力方向の依存関係	1	グラフ ドキュメント エディター::O
+{ADC1BC7B-958B-4548-9F9F-10FC49099825}	8482	ArchitectureContextMenus.DirectedGraphContextMenu.Select.BothDependencies	アーキテクチャのコンテキストメニュー.有向グラフのコンテキストメニュー.選択.両方	1	グラフ ドキュメント エディター::B
+{ADC1BC7B-958B-4548-9F9F-10FC49099825}	8519	ArchitectureContextMenus.DirectedGraphContextMenu.Edit.NewComment	アーキテクチャのコンテキストメニュー.有向グラフのコンテキストメニュー.編集.新しいコメント	1	グラフ ドキュメント エディター::Ctrl+Shift+K
+{ADC1BC7B-958B-4548-9F9F-10FC49099825}	8517	ArchitectureContextMenus.DirectedGraphContextMenu.Edit.Rename	アーキテクチャのコンテキストメニュー.有向グラフのコンテキストメニュー.編集.名前の変更	1	グラフ ドキュメント エディター::F2
+{ADC1BC7B-958B-4548-9F9F-10FC49099825}	8520	ArchitectureContextMenus.DirectedGraphContextMenu.Edit.Remove	アーキテクチャのコンテキストメニュー.有向グラフのコンテキストメニュー.編集.削除	1	グラフ ドキュメント エディター::Del
+{ADC1BC7B-958B-4548-9F9F-10FC49099825}	8512	ArchitectureContextMenus.DirectedGraphContextMenu.Edit.Add.AddNode	アーキテクチャのコンテキストメニュー.有向グラフのコンテキストメニュー.編集.追加.ジェネリックノード	1	グラフ ドキュメント エディター::Ins
+{14BCA3AF-5E27-4307-8492-84AF8647EA7C}	22035	Debug.ShowCallStackonCodeMap	デバッグ.コードマップに呼び出し履歴を表示	1	全体::Ctrl+Shift+@
+{BDFA79D2-2CD2-474A-A82A-CE8694116825}	544	View.ViewAllEnvironments	表示.すべての環境を表示する	1	全体::Ctrl+K, Ctrl+@
+{BDFA79D2-2CD2-474A-A82A-CE8694116825}	544	View.ViewAllEnvironments	表示.すべての環境を表示する	2	全体::Ctrl+K, @
+{BDFA79D2-2CD2-474A-A82A-CE8694116825}	513	View.InteractiveOpen	表示.Interactiveを開く	1	全体::Alt+I
+{BDFA79D2-2CD2-474A-A82A-CE8694116825}	528	Python.DebugInteractive	Python.Pythonデバッグ対話型	1	全体::Shift+Alt+I
+{BDFA79D2-2CD2-474A-A82A-CE8694116825}	263	EditorContextMenus.CodeWindow.RemoveImports.AllScopes	エディターコンテキストメニュー.コードウィンドウ.インポートを削除する.すべてのスコープ	1	全体::Ctrl+K, Ctrl+J
+{BDFA79D2-2CD2-474A-A82A-CE8694116825}	258	Python.ExecuteInInteractive	Python.対話型で実行	1	全体::Shift+Alt+F5
+{BDFA79D2-2CD2-474A-A82A-CE8694116825}	259	Python.SendSelectionToInteractive	編集.選択範囲をInteractiveに送信する	1	全体::Ctrl+E, Ctrl+E
+{BDFA79D2-2CD2-474A-A82A-CE8694116825}	259	Python.SendSelectionToInteractive	編集.選択範囲をInteractiveに送信する	2	全体::Ctrl+E, E
+{BDFA79D2-2CD2-474A-A82A-CE8694116825}	259	Python.SendSelectionToInteractive	編集.選択範囲をInteractiveに送信する	3	Python エディター::Ctrl+Enter
+{BDFA79D2-2CD2-474A-A82A-CE8694116825}	261	Python.FillCommentParagraph	編集.コメントを段落幅に合わせる	1	全体::Ctrl+E, Ctrl+P
+{2311781F-1D8E-4B3B-AC78-E4D8DD322778}	268	Debug.Graphics.StartGraphicsDebugging	デバッグ.グラフィックスデバッグの開始	1	全体::Alt+F5
+{9F4B31B4-09AC-4937-A2E7-F4BC02BB7DBA}	768	OtherContextMenus.Npm.InstallNewnpmPackages	その他のコンテキストメニュー.Npm.新しいnpmパッケージをインストールする	1	全体::Ctrl+K, G
+{1E198C22-5980-4E7E-92F3-F73168D1FB63}	768	TestExplorer.OpenTest	TestExplorer.OpenTest	1	テスト エクスプローラー::F12
+{1E198C22-5980-4E7E-92F3-F73168D1FB63}	512	TestExplorer.ShowTestExplorer	TestExplorer.ShowTestExplorer	1	全体::Ctrl+E, T
+{1E198C22-5980-4E7E-92F3-F73168D1FB63}	784	TestExplorer.RunAllTests	TestExplorer.RunAllTests	1	全体::Ctrl+R, A
+{1E198C22-5980-4E7E-92F3-F73168D1FB63}	836	TestExplorer.RepeatLastRun	TestExplorer.RepeatLastRun	1	全体::Ctrl+R, L
+{1E198C22-5980-4E7E-92F3-F73168D1FB63}	897	TestExplorer.DebugLastRun	TestExplorer.DebugLastRun	1	全体::Ctrl+R, D
+{1E198C22-5980-4E7E-92F3-F73168D1FB63}	789	TestExplorer.DebugAllTests	TestExplorer.DebugAllTests	1	全体::Ctrl+R, Ctrl+A
+{1E198C22-5980-4E7E-92F3-F73168D1FB63}	4643	TestExplorer.ExpandAllGroups	TestExplorer.ExpandAllGroups	1	テスト エクスプローラー::Ctrl+右矢印
+{1E198C22-5980-4E7E-92F3-F73168D1FB63}	4644	TestExplorer.CollapseAllGroups	TestExplorer.CollapseAllGroups	1	テスト エクスプローラー::Ctrl+左矢印
+{1E198C22-5980-4E7E-92F3-F73168D1FB63}	885	TestExplorer.RunAllTestsInContext	TestExplorer.RunAllTestsInContext	1	全体::Ctrl+R, T
+{1E198C22-5980-4E7E-92F3-F73168D1FB63}	896	TestExplorer.DebugAllTestsInContext	TestExplorer.DebugAllTestsInContext	1	全体::Ctrl+R, Ctrl+T
+{00B8868B-F9F5-4970-A048-410B05508506}	259	InteractiveConsole.ExecuteOrPasteInput	InteractiveConsole.ExecuteOrPasteInput	1	対話型ウィンドウ::Ctrl+Enter
+{00B8868B-F9F5-4970-A048-410B05508506}	262	InteractiveConsole.HistoryNext	InteractiveConsole.HistoryNext	1	対話型ウィンドウ::Alt+下矢印
+{00B8868B-F9F5-4970-A048-410B05508506}	263	InteractiveConsole.HistoryPrevious	InteractiveConsole.HistoryPrevious	1	対話型ウィンドウ::Alt+上矢印
+{00B8868B-F9F5-4970-A048-410B05508506}	265	InteractiveConsole.BreakLine	InteractiveConsole.BreakLine	1	対話型ウィンドウ::Shift+Enter
+{00B8868B-F9F5-4970-A048-410B05508506}	266	InteractiveConsole.SearchHistoryNext	InteractiveConsole.SearchHistoryNext	1	対話型ウィンドウ::Ctrl+Alt+下矢印
+{00B8868B-F9F5-4970-A048-410B05508506}	267	InteractiveConsole.SearchHistoryPrevious	InteractiveConsole.SearchHistoryPrevious	1	対話型ウィンドウ::Ctrl+Alt+上矢印
+{00B8868B-F9F5-4970-A048-410B05508506}	270	InteractiveConsole.CopyCode	InteractiveConsole.CopyCode	1	対話型ウィンドウ::Ctrl+Shift+C
+{00B8868B-F9F5-4970-A048-410B05508506}	268	InteractiveConsole.ExecuteInInteractive	InteractiveConsole.ExecuteInInteractive	1	CSharp エディター::Ctrl+E, Ctrl+E
+{00B8868B-F9F5-4970-A048-410B05508506}	268	InteractiveConsole.ExecuteInInteractive	InteractiveConsole.ExecuteInInteractive	2	CSharp エディター::Ctrl+E, E
+{000AF700-CF09-4582-9E1C-2603403AB647}	772	SQL.SSDTSchemaCompareWriteUpdates	SQL.SSDTスキーマ比較更新の作成	1	Microsoft SQL Server Data Tools、スキーマ比較::Shift+Alt+U
+{000AF700-CF09-4582-9E1C-2603403AB647}	775	SQL.SSDTSchemaCompareStop	SQL.SSDTスキーマ比較停止	1	Microsoft SQL Server Data Tools、スキーマ比較::Alt+Break
+{000AF700-CF09-4582-9E1C-2603403AB647}	778	SQL.SSDTSchemaCompareNextChange	SQL.SSDTスキーマ比較次の変更	1	Microsoft SQL Server Data Tools、スキーマ比較::Shift+Alt+.
+{000AF700-CF09-4582-9E1C-2603403AB647}	779	SQL.SSDTSchemaComparePreviousChange	SQL.SSDTスキーマ比較前の変更	1	Microsoft SQL Server Data Tools、スキーマ比較::Shift+Alt+,
+{000AF700-CF09-4582-9E1C-2603403AB647}	801	SQL.SSDTSchemaCompareCompare	SQL.SSDTスキーマ比較	1	Microsoft SQL Server Data Tools、スキーマ比較::Shift+Alt+C
+{000AF700-CF09-4582-9E1C-2603403AB647}	802	SQL.SSDTSchemaCompareGenerateScript	SQL.SSDTスキーマ比較生成スクリプト	1	Microsoft SQL Server Data Tools、スキーマ比較::Shift+Alt+G
+{E3BC1C4F-9E6C-9119-A304-1B2BC6AF5D32}	24582	テスト.UseCodedUITestBuilder	テスト.コード化されたUIテストビルダーの使用	1	全体::Ctrl+\, Ctrl+C
+{E3BC1C4F-9E6C-9119-A304-1B2BC6AF5D32}	24583	テスト.UseExistingActionRecording	テスト.既存の操作の記録の使用	1	全体::Ctrl+\, Ctrl+A
+{E156FF8E-E7E5-4598-8663-A9A2FCB1B06E}	8192	OtherContextMenus.UITestEditorContextMenu.Splitintoanewmethod	その他のコンテキストメニュー.UITestEditorContextMenu.新しいメソッドに分割	1	コード化された UI テスト エディター::Ctrl+Shift+T
+{E156FF8E-E7E5-4598-8663-A9A2FCB1B06E}	8193	OtherContextMenus.UITestEditorContextMenu.Movecode	その他のコンテキストメニュー.UITestEditorContextMenu.コードの移動	1	コード化された UI テスト エディター::Ctrl+Alt+C
+{E156FF8E-E7E5-4598-8663-A9A2FCB1B06E}	8194	OtherContextMenus.UITestEditorContextMenu.InsertDelayBefore	その他のコンテキストメニュー.UITestEditorContextMenu.前に遅延を挿入	1	コード化された UI テスト エディター::Ctrl+Alt+D
+{E156FF8E-E7E5-4598-8663-A9A2FCB1B06E}	8195	OtherContextMenus.UITestEditorContextMenu.LocatetheUIControl	その他のコンテキストメニュー.UITestEditorContextMenu.UIコントロールの検索	1	コード化された UI テスト エディター::Ctrl+Shift+L
+{E156FF8E-E7E5-4598-8663-A9A2FCB1B06E}	8196	OtherContextMenus.UITestEditorContextMenu.LocateAll	その他のコンテキストメニュー.UITestEditorContextMenu.すべてを検索	1	コード化された UI テスト エディター::Shift+Alt+L
+{E156FF8E-E7E5-4598-8663-A9A2FCB1B06E}	8197	OtherContextMenus.UITestEditorContextMenu.CopyReferencetoClipboard	その他のコンテキストメニュー.UITestEditorContextMenu.参照をクリップボードにコピー	1	コード化された UI テスト エディター::Ctrl+C
+{7A4F7230-E630-49E7-BD86-0783CE0A24F6}	1281	EditorContextMenus.CodeWindow.ImplementMonoBehaviours	エディターコンテキストメニュー.コードウィンドウ.MonoBehavioursの実装	1	テキスト エディター::Ctrl+Shift+M
+{7A4F7230-E630-49E7-BD86-0783CE0A24F6}	1282	EditorContextMenus.CodeWindow.QuickMonoBehaviours	エディターコンテキストメニュー.コードウィンドウ.クイックMonoBehaviours	1	テキスト エディター::Ctrl+Shift+Q
+{30947EBE-9147-45F9-96CF-401BFC671A82}	259	OtherContextMenus.BrowserLink.RefreshLinkedBrowsers	その他のコンテキストメニュー.BrowserLink.リンクされたブラウザーの更新	1	全体::Ctrl+Alt+Enter
+{25113E5B-9964-4375-9DD1-0A5E9840507A}	132	Project.Publishselectedfiles	プロジェクト.選択したファイルの発行	1	全体::Alt+:, Alt+P
+{25113E5B-9964-4375-9DD1-0A5E9840507A}	134	Project.Previewchanges	プロジェクト.変更内容のプレビュー	1	全体::Alt+:, Alt+C
+{25113E5B-9964-4375-9DD1-0A5E9840507A}	135	Project.Replaceselectedfilesfromserver	プロジェクト.選択したファイルをサーバーから置換	1	全体::Alt+:, Alt+R
+{D7E8C5E1-BDB8-11D0-9C88-0000F8040A53}	4414	Table.ColumntotheLeft	テーブル.左に列を挿入	1	HTML エディター デザイン ビュー::Ctrl+Alt+左矢印
+{D7E8C5E1-BDB8-11D0-9C88-0000F8040A53}	4415	Table.ColumntotheRight	テーブル.右に列を挿入	1	HTML エディター デザイン ビュー::Ctrl+Alt+右矢印
+{D7E8C5E1-BDB8-11D0-9C88-0000F8040A53}	4416	Table.RowAbove	テーブル.上に行を挿入	1	HTML エディター デザイン ビュー::Ctrl+Alt+上矢印
+{D7E8C5E1-BDB8-11D0-9C88-0000F8040A53}	4417	Table.RowBelow	テーブル.下に行を挿入	1	HTML エディター デザイン ビュー::Ctrl+Alt+下矢印
+{D7E8C5E1-BDB8-11D0-9C88-0000F8040A53}	4431	View.ASP.NETNonvisualControls	表示.ASP.NET非ビジュアルコントロール	1	HTML エディター デザイン ビュー::Ctrl+Shift+N
+{748813A7-657C-499D-81A0-2FFDF790711A}	8	QueryDesigner.JoinMode	クエリデザイナー.結合モード	1	クエリ デザイナー::Ctrl+Shift+J
+{748813A7-657C-499D-81A0-2FFDF790711A}	8	QueryDesigner.JoinMode	クエリデザイナー.結合モード	2	ビュー デザイナー::Ctrl+Shift+J
+{748813A7-657C-499D-81A0-2FFDF790711A}	10	QueryDesigner.CancelRetrievingData	クエリデザイナー.データの取得の中止	1	クエリ デザイナー::Ctrl+T
+{748813A7-657C-499D-81A0-2FFDF790711A}	10	QueryDesigner.CancelRetrievingData	クエリデザイナー.データの取得の中止	2	ビュー デザイナー::Ctrl+T
+{881DC25A-19B6-48E8-8431-A2078060A337}	256	Edit.ConstraintEditingMode	編集.ConstraintEditingMode	1	Xcode Interface Builder Editor::Ctrl+E
+{881DC25A-19B6-48E8-8431-A2078060A337}	257	Edit.UpdateFramesFromConstraints	編集.UpdateFramesFromConstraints	1	Xcode Interface Builder Editor::Ctrl+Shift+R
+{11AC0A76-365E-490D-ABAD-E44E52897C7D}	5906	OtherContextMenus.MicrosoftDataEntityDesignContext.RemovefromDiagram	その他のコンテキストメニュー.MicrosoftDataEntityDesignコンテキスト.ダイアグラムから削除	1	ADO.NET  Entity Data Model Designer::Shift+Del
+{11AC0A76-365E-490D-ABAD-E44E52897C7D}	1056	OtherContextMenus.MicrosoftDataEntityDesignContext.Refactor.Rename	その他のコンテキストメニュー.MicrosoftDataEntityDesignコンテキスト.リファクター.名前の変更	1	ADO.NET  Entity Data Model Designer::Ctrl+R, R
+{11AC0A76-365E-490D-ABAD-E44E52897C7D}	5894	OtherContextMenus.MicrosoftDataEntityDesignContext.AddNewDiagram	その他のコンテキストメニュー.MicrosoftDataEntityDesignコンテキスト.新しいダイアグラムを追加	1	全体::Ins
+{11AC0A76-365E-490D-ABAD-E44E52897C7D}	5913	OtherContextMenus.MicrosoftDataEntityDesignContext.MoveProperties.ToTop	その他のコンテキストメニュー.MicrosoftDataEntityDesignコンテキスト.プロパティの移動.先頭へ	1	ADO.NET  Entity Data Model Designer::Alt+Home
+{11AC0A76-365E-490D-ABAD-E44E52897C7D}	5920	OtherContextMenus.MicrosoftDataEntityDesignContext.MoveProperties.ToBottom	その他のコンテキストメニュー.MicrosoftDataEntityDesignコンテキスト.プロパティの移動.末尾へ	1	ADO.NET  Entity Data Model Designer::Alt+End
+{11AC0A76-365E-490D-ABAD-E44E52897C7D}	5909	OtherContextMenus.MicrosoftDataEntityDesignContext.MoveProperties.Up	その他のコンテキストメニュー.MicrosoftDataEntityDesignコンテキスト.プロパティの移動.上へ	1	ADO.NET  Entity Data Model Designer::Alt+上矢印
+{11AC0A76-365E-490D-ABAD-E44E52897C7D}	5910	OtherContextMenus.MicrosoftDataEntityDesignContext.MoveProperties.Down	その他のコンテキストメニュー.MicrosoftDataEntityDesignコンテキスト.プロパティの移動.下へ	1	ADO.NET  Entity Data Model Designer::Alt+下矢印
+{11AC0A76-365E-490D-ABAD-E44E52897C7D}	5911	OtherContextMenus.MicrosoftDataEntityDesignContext.MoveProperties.Up5	その他のコンテキストメニュー.MicrosoftDataEntityDesignコンテキスト.プロパティの移動.5つ上へ	1	ADO.NET  Entity Data Model Designer::Alt+PgUp
+{11AC0A76-365E-490D-ABAD-E44E52897C7D}	5912	OtherContextMenus.MicrosoftDataEntityDesignContext.MoveProperties.Down5	その他のコンテキストメニュー.MicrosoftDataEntityDesignコンテキスト.プロパティの移動.5つ下へ	1	ADO.NET  Entity Data Model Designer::Alt+PgDn
+{75AC5611-A912-4195-8A65-457AE17416FB}	12290	ProjectandSolutionContextMenus.Item.MoveUp	プロジェクトとソリューションコンテキストメニュー.項目.MoveUp	1	ソリューション エクスプローラー::Alt+上矢印
+{75AC5611-A912-4195-8A65-457AE17416FB}	12295	ProjectandSolutionContextMenus.Item.MoveDown	プロジェクトとソリューションコンテキストメニュー.項目.MoveDown	1	ソリューション エクスプローラー::Alt+下矢印
+{5D8847D1-9A8A-431E-907A-62D9963F07FD}	8214	Debug.GoToPreviousCallorIntelliTraceEvent	デバッグ.前の呼び出しまたはIntelliTraceイベントへ移動	1	全体::Ctrl+Shift+F11
+{57735D06-C920-4415-A2E0-7D6E6FBDFA99}	4108	Team.Git.GoToGitChanges	チーム.Git変更へ移動	1	全体::Ctrl+0, Ctrl+G
+{57735D06-C920-4415-A2E0-7D6E6FBDFA99}	4108	Team.Git.GoToGitChanges	チーム.Git変更へ移動	2	全体::Ctrl+0, G
+{57735D06-C920-4415-A2E0-7D6E6FBDFA99}	4109	Team.Git.GoToGitActiveRepositories	チーム.Gitアクティブリポジトリへ移動	1	全体::Ctrl+0, Ctrl+E
+{57735D06-C920-4415-A2E0-7D6E6FBDFA99}	4109	Team.Git.GoToGitActiveRepositories	チーム.Gitアクティブリポジトリへ移動	2	全体::Ctrl+0, E
+{57735D06-C920-4415-A2E0-7D6E6FBDFA99}	4110	Team.Git.GoToGitSynchronization	チーム.Git同期へ移動	1	全体::Ctrl+0, Ctrl+Y
+{57735D06-C920-4415-A2E0-7D6E6FBDFA99}	4110	Team.Git.GoToGitSynchronization	チーム.Git同期へ移動	2	全体::Ctrl+0, Y
+{57735D06-C920-4415-A2E0-7D6E6FBDFA99}	4175	Team.Git.GoToParent	チーム.親へ移動	1	全体::Alt+PgDn
+{57735D06-C920-4415-A2E0-7D6E6FBDFA99}	4176	Team.Git.GoToChild	チーム.子へ移動	1	全体::Alt+PgUp
+{5D1F73E6-77CD-4A05-8F7B-2C4557503939}	4132	TeamFoundationContextMenus.Commands.GoToBuilds	TeamFoundationコンテキストメニュー.コマンド.ビルドに移動	1	全体::Ctrl+0, Ctrl+B
+{5D1F73E6-77CD-4A05-8F7B-2C4557503939}	4132	TeamFoundationContextMenus.Commands.GoToBuilds	TeamFoundationコンテキストメニュー.コマンド.ビルドに移動	2	全体::Ctrl+0, B
+{3174FE63-FB93-4A3A-82FD-4036F45CB1C2}	256	EditorContextMenus.CodeWindow.AddComment	エディターコンテキストメニュー.コードウィンドウ.コメントの追加	1	相違ビューアー::Ctrl+Shift+K
+{3174FE63-FB93-4A3A-82FD-4036F45CB1C2}	261	EditorContextMenus.CodeWindow.EditLocalFile	エディターコンテキストメニュー.コードウィンドウ.ローカルファイルの編集	1	相違ビューアー::Ctrl+Shift+P
+{34E61A32-1C10-4052-ABE7-264C46302CE4}	16464	TeamFoundationContextMenus.Commands.GoToDocuments	TeamFoundationコンテキストメニュー.コマンド.ドキュメントに移動	1	全体::Ctrl+0, Ctrl+D
+{34E61A32-1C10-4052-ABE7-264C46302CE4}	16464	TeamFoundationContextMenus.Commands.GoToDocuments	TeamFoundationコンテキストメニュー.コマンド.ドキュメントに移動	2	全体::Ctrl+0, D
+{F705F461-5EF4-4D78-A655-A990E31A8555}	16465	TeamFoundationContextMenus.Commands.GoToReports	TeamFoundationコンテキストメニュー.コマンド.レポートに移動	1	全体::Ctrl+0, Ctrl+R
+{F705F461-5EF4-4D78-A655-A990E31A8555}	16465	TeamFoundationContextMenus.Commands.GoToReports	TeamFoundationコンテキストメニュー.コマンド.レポートに移動	2	全体::Ctrl+0, R
+{FFE1131C-8EA1-4D05-9728-34AD4611BDA9}	8241	TeamFoundationContextMenus.MergeContextMenu.SetFocusonLeftWindow	TeamFoundationコンテキストメニュー.コンテキストメニューのマージ.左ウィンドウにフォーカスを設定	1	マージ エディター ウィンドウ::Alt+1
+{FFE1131C-8EA1-4D05-9728-34AD4611BDA9}	8242	TeamFoundationContextMenus.MergeContextMenu.SetFocusonResultWindow	TeamFoundationコンテキストメニュー.コンテキストメニューのマージ.結果ウィンドウにフォーカスを設定	1	マージ エディター ウィンドウ::Alt+2
+{FFE1131C-8EA1-4D05-9728-34AD4611BDA9}	8243	TeamFoundationContextMenus.MergeContextMenu.SetFocusonRightWindow	TeamFoundationコンテキストメニュー.コンテキストメニューのマージ.右ウィンドウにフォーカスを設定	1	マージ エディター ウィンドウ::Alt+3
+{FFE1131C-8EA1-4D05-9728-34AD4611BDA9}	12304	TeamFoundationContextMenus.Commands.GoToPendingChanges	TeamFoundationコンテキストメニュー.コマンド.保留中の変更に移動	1	全体::Ctrl+0, Ctrl+P
+{FFE1131C-8EA1-4D05-9728-34AD4611BDA9}	12304	TeamFoundationContextMenus.Commands.GoToPendingChanges	TeamFoundationコンテキストメニュー.コマンド.保留中の変更に移動	2	全体::Ctrl+0, P
+{FFE1131C-8EA1-4D05-9728-34AD4611BDA9}	12305	TeamFoundationContextMenus.Commands.GoToMyWork	TeamFoundationコンテキストメニュー.コマンド.担当作業に移動	1	全体::Ctrl+0, Ctrl+M
+{FFE1131C-8EA1-4D05-9728-34AD4611BDA9}	12305	TeamFoundationContextMenus.Commands.GoToMyWork	TeamFoundationコンテキストメニュー.コマンド.担当作業に移動	2	全体::Ctrl+0, M
+{FFE1131C-8EA1-4D05-9728-34AD4611BDA9}	6381	TeamFoundationContextMenus.MyWorkPageInProgress.TfsContextMyWorkPageCreateCopyWI	TeamFoundationコンテキストメニュー.担当作業ページ処理中.作業項目のコピーの作成	1	チーム エクスプローラー::Shift+Alt+C
+{FFE1131C-8EA1-4D05-9728-34AD4611BDA9}	6382	TeamFoundationContextMenus.MyWorkPageInProgress.TfsContextMyWorkPageNewLinkedWI	TeamFoundationコンテキストメニュー.担当作業ページ処理中.新しいリンクされた作業項目	1	チーム エクスプローラー::Shift+Alt+L
+{15061D55-E726-4E3C-97D3-1B871D9B5AE9}	4625	Edit.RefreshWorkItem	編集.作業項目の更新	1	作業項目エディター::F5
+{15061D55-E726-4E3C-97D3-1B871D9B5AE9}	4627	Team.GotoPreviousWorkItem	チーム.前の作業項目へ移動	1	作業項目の結果ビュー::Shift+Alt+P
+{15061D55-E726-4E3C-97D3-1B871D9B5AE9}	4628	Team.GotoNextWorkItem	チーム.次の作業項目へ移動	1	作業項目の結果ビュー::Shift+Alt+N
+{15061D55-E726-4E3C-97D3-1B871D9B5AE9}	8193	Team.Refresh	チーム.更新	1	作業項目のクエリ ビュー::F5
+{15061D55-E726-4E3C-97D3-1B871D9B5AE9}	8193	Team.Refresh	チーム.更新	2	作業項目の結果ビュー::F5
+{15061D55-E726-4E3C-97D3-1B871D9B5AE9}	20484	Edit.CreateCopyofWorkItem	編集.作業項目のコピーの作成	1	作業項目のクエリ ビュー::Shift+Alt+C
+{15061D55-E726-4E3C-97D3-1B871D9B5AE9}	20484	Edit.CreateCopyofWorkItem	編集.作業項目のコピーの作成	2	作業項目の結果ビュー::Shift+Alt+C
+{15061D55-E726-4E3C-97D3-1B871D9B5AE9}	20484	Edit.CreateCopyofWorkItem	編集.作業項目のコピーの作成	3	作業項目エディター::Shift+Alt+C
+{15061D55-E726-4E3C-97D3-1B871D9B5AE9}	20486	Team.NewLinkedWorkItem	チーム.新しいリンクされた作業項目	1	作業項目のクエリ ビュー::Shift+Alt+L
+{15061D55-E726-4E3C-97D3-1B871D9B5AE9}	20486	Team.NewLinkedWorkItem	チーム.新しいリンクされた作業項目	2	作業項目の結果ビュー::Shift+Alt+L
+{15061D55-E726-4E3C-97D3-1B871D9B5AE9}	20486	Team.NewLinkedWorkItem	チーム.新しいリンクされた作業項目	3	作業項目エディター::Shift+Alt+L
+{15061D55-E726-4E3C-97D3-1B871D9B5AE9}	20488	TeamFoundationContextMenus.Commands.GoToWorkItems	TeamFoundationコンテキストメニュー.コマンド.作業項目へ移動	1	全体::Ctrl+0, Ctrl+W
+{15061D55-E726-4E3C-97D3-1B871D9B5AE9}	20488	TeamFoundationContextMenus.Commands.GoToWorkItems	TeamFoundationコンテキストメニュー.コマンド.作業項目へ移動	2	全体::Ctrl+0, W
+{15061D55-E726-4E3C-97D3-1B871D9B5AE9}	36869	Edit.Outdent	編集.インデント解除	1	作業項目のクエリ ビュー::Shift+Alt+左矢印
+{15061D55-E726-4E3C-97D3-1B871D9B5AE9}	36869	Edit.Outdent	編集.インデント解除	2	作業項目の結果ビュー::Shift+Alt+左矢印
+{15061D55-E726-4E3C-97D3-1B871D9B5AE9}	36870	Edit.Indent	編集.インデント	1	作業項目のクエリ ビュー::Shift+Alt+右矢印
+{15061D55-E726-4E3C-97D3-1B871D9B5AE9}	36870	Edit.Indent	編集.インデント	2	作業項目の結果ビュー::Shift+Alt+右矢印
+{15061D55-E726-4E3C-97D3-1B871D9B5AE9}	53255	Window.Toggle	ウィンドウ.切り替え	1	作業項目のクエリ ビュー::Shift+Alt+V
+{15061D55-E726-4E3C-97D3-1B871D9B5AE9}	53255	Window.Toggle	ウィンドウ.切り替え	2	作業項目の結果ビュー::Shift+Alt+V
+{66BD4C1D-3401-4BCC-A942-E4990827E6F7}	8256	Resources.Strings	リソース.文字列	1	マネージド リソース エディター::Ctrl+1
+{66BD4C1D-3401-4BCC-A942-E4990827E6F7}	8257	Resources.Images	リソース.イメージ	1	マネージド リソース エディター::Ctrl+2
+{66BD4C1D-3401-4BCC-A942-E4990827E6F7}	8258	Resources.Icons	リソース.アイコン	1	マネージド リソース エディター::Ctrl+3
+{66BD4C1D-3401-4BCC-A942-E4990827E6F7}	8259	Resources.Audio	リソース.オーディオ	1	マネージド リソース エディター::Ctrl+4
+{66BD4C1D-3401-4BCC-A942-E4990827E6F7}	8260	Resources.Files	リソース.ファイル	1	マネージド リソース エディター::Ctrl+5
+{66BD4C1D-3401-4BCC-A942-E4990827E6F7}	8261	Resources.Other	リソース.その他	1	マネージド リソース エディター::Ctrl+6
+{A654F3DF-4BDB-4863-A750-75CDB50A03BC}	262	Debug.SelectElement	デバッグ.要素の選択	1	DOM Explorer::Ctrl+B
+{A654F3DF-4BDB-4863-A750-75CDB50A03BC}	261	Debug.Refresh	デバッグ.最新の情報に更新	1	DOM Explorer::F5
+{A654F3DF-4BDB-4863-A750-75CDB50A03BC}	263	Debug.ShowLayout	デバッグ.レイアウトの表示	1	DOM Explorer::Ctrl+Shift+I
+{A654F3DF-4BDB-4863-A750-75CDB50A03BC}	264	Debug.ShowAll	デバッグ.すべて表示	1	全体::Ctrl+Alt+V, D
+{A654F3DF-4BDB-4863-A750-75CDB50A03BC}	257	Debug.JavaScriptConsole	デバッグ.JavaScriptコンソール	1	全体::Ctrl+Alt+V, C
+{CD203EB7-5920-47F9-8927-1804E7498464}	256	Debug.Tasks	デバッグ.タスク	1	全体::Ctrl+Shift+D, K
+{CD203EB7-5920-47F9-8927-1804E7498464}	257	Debug.ParallelStacks	デバッグ.並列スタック	1	全体::Ctrl+Shift+D, S
+{160961B3-909D-4B28-9353-A1BEF587B4A6}	4	Edit.InsertNextMatchingCaret	編集.次の一致にキャレットを挿入	1	テキスト エディター::Shift+Alt+.
+{160961B3-909D-4B28-9353-A1BEF587B4A6}	5	Edit.InsertCaretsatAllMatching	編集.一致するすべての項目にキャレットを挿入	1	テキスト エディター::Shift+Alt+:
+{160961B3-909D-4B28-9353-A1BEF587B4A6}	24	Edit.RemoveLastCaret	編集.最後のキャレットの削除	1	テキスト エディター::Shift+Alt+,
+{160961B3-909D-4B28-9353-A1BEF587B4A6}	25	Edit.MoveLastCaretDown	編集.最後のキャレットを下へ移動	1	テキスト エディター::Shift+Alt+/
+{160961B3-909D-4B28-9353-A1BEF587B4A6}	21	EditorContextMenus.Navigate.GoToContainingBlock	エディターコンテキストメニュー.ナビゲート.包含ブロックへ移動	1	テキスト エディター::Shift+Alt+[
+{160961B3-909D-4B28-9353-A1BEF587B4A6}	19	Edit.GoToNextIssueinFile	編集.ファイル内の次の問題へ移動	1	テキスト エディター::Alt+PgDn
+{160961B3-909D-4B28-9353-A1BEF587B4A6}	20	Edit.GoToPreviousIssueinFile	編集.ファイル内の前の問題へ移動	1	テキスト エディター::Alt+PgUp
+{160961B3-909D-4B28-9353-A1BEF587B4A6}	32	Edit.GoToLastEditLocation	編集.最後の編集の場所へ移動	1	全体::Ctrl+Shift+Bkspce
+{FB87333B-16C8-400E-BC8F-F6B890410582}	5	XML.StartXSLTDebugging	XML.StartXSLTDebugging	1	XML (テキスト) エディター::Alt+F5
+{FB87333B-16C8-400E-BC8F-F6B890410582}	3	XML.StartXSLTWithoutDebugging	XML.StartXSLTWithoutDebugging	1	XML (テキスト) エディター::Ctrl+Alt+F5
+{71037277-9175-48D2-ABE4-1E0F55629174}	8192	XsdDesigner.ShowStartView	XSDデザイナー.開始ビューの表示	1	XML スキーマ デザイナー::Ctrl+1
+{71037277-9175-48D2-ABE4-1E0F55629174}	8195	XsdDesigner.ShowContentModelView	XSDデザイナー.コンテンツモデルビューの表示	1	XML スキーマ デザイナー::Ctrl+2
+{71037277-9175-48D2-ABE4-1E0F55629174}	8196	XsdDesigner.ShowGraphView	XSDデザイナー.グラフビューの表示	1	XML スキーマ デザイナー::Ctrl+3
+{71037277-9175-48D2-ABE4-1E0F55629174}	8208	GraphView.LefttoRight	GraphView.左から右	1	XML スキーマ デザイナー::Alt+右矢印
+{71037277-9175-48D2-ABE4-1E0F55629174}	8209	GraphView.RighttoLeft	GraphView.右から左	1	XML スキーマ デザイナー::Alt+左矢印
+{71037277-9175-48D2-ABE4-1E0F55629174}	8210	GraphView.ToptoBottom	GraphView.上から下	1	XML スキーマ デザイナー::Alt+下矢印
+{71037277-9175-48D2-ABE4-1E0F55629174}	8211	GraphView.BottomtoTop	GraphView.下から上	1	XML スキーマ デザイナー::Alt+上矢印
+{71037277-9175-48D2-ABE4-1E0F55629174}	8241	OtherContextMenus.GraphView.RemovefromWorkspace	その他のコンテキストメニュー.GraphView.ワークスペースからの削除	1	XML スキーマ デザイナー::Del
+{A5BB8F41-D79A-4DE2-BD13-857F39DD0F3F}	4160	ProjectandSolutionContextMenus.Project.FileNesting.Nestitem	プロジェクトとソリューションコンテキストメニュー.プロジェクト.FileNesting.Nestitem	1	全体::Ctrl+Alt+N
+{5EFC7975-14BC-11CF-9B2B-00AA00573819}	337	Edit.GoToFindCombo	編集.検索コンボボックス	1	全体::Ctrl+D
+{B371C497-6D81-4B13-9DB8-8E3E6ABAD0C3}	786	TSqlEditorDatabaseCombo	TSqlEditorDatabaseCombo	1	Microsoft SQL Server Data Tools, T-SQL Editor::Shift+Alt+PgDn
+{B371C497-6D81-4B13-9DB8-8E3E6ABAD0C3}	786	TSqlEditorDatabaseCombo	TSqlEditorDatabaseCombo	2	Microsoft SQL Server Data Tools, T-SQL PDW エディター::Shift+Alt+PgDn
+{9478E63B-6975-4C39-A176-378A0C8F28B0}	45312	ViewFileInScriptPanel	スクリプトパネルのファイルの表示	1	Microsoft SQL Server Data Tools, テーブル デザイナー::Shift+Alt+PgDn
