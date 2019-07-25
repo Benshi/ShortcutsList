@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.757
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortcutsList", "ShortcutsList\ShortcutsList.csproj", "{3C8CD50B-C92A-4630-A42D-9D0712CD7846}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSShortcut", "VSShortcut\VSShortcut.csproj", "{3C8CD50B-C92A-4630-A42D-9D0712CD7846}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
